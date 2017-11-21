@@ -1,14 +1,14 @@
 <nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
     <ul id="menu-main-menu" class="clearfix">
         <li id="nav-menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
-            <a href="#" class=" current  no_link" onclick="JavaScript: return false;">
+            <a href="<?php echo site_url().'home';?>" class=" current  no_link" onclick="JavaScript: return false;">
                 <span class="item_outer">
                     <span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i>
                 </span>
             </a>
         </li>
         <li id="nav-menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide wide-two-columns">
-            <a href="#" class=" no_link" onclick="JavaScript: return false;">
+            <a href="<?php echo site_url().'courses';?>" class=" no_link" onclick="JavaScript: return false;">
                 <span class="item_outer">
                     <span class="item_text">Courses</span><i class="eltdf-menu-arrow fa fa-angle-down"></i>
                 </span>
@@ -16,7 +16,8 @@
         <div class="second">
             <div class="inner">
                 <ul>
-                    <li id="nav-menu-item-2008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub"><a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Features</span></span></a>
+                    <li id="nav-menu-item-2008" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sub">
+                        <a href="#" class=" no_link" onclick="JavaScript: return false;"><span class="item_outer"><span class="item_text">Features</span></span></a>
                         <ul>
                             <li id="nav-menu-item-2334" class="menu-item menu-item-type-post_type menu-item-object-page">
                                 <a href="http://esmarts.elated-themes.com/all-courses/" class="">
@@ -151,14 +152,14 @@
     </li>
 
     <li id="nav-menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-        <a href="#" class=" no_link" onclick="JavaScript: return false;">
+        <a href="<?php echo site_url().'about';?>" class=" no_link">
             <span class="item_outer">
                 <span class="item_text">Acerca</span>
             </span>
         </a>
     </li>
     <li id="nav-menu-item-1500" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub narrow">
-        <a href="#" class=" no_link" onclick="JavaScript: return false;">
+        <a href="<?php echo site_url().'contact';?>">
             <span class="item_outer">
                 <span class="item_text">Contacto</span>
                 <i class="eltdf-menu-arrow fa fa-angle-down"></i>
@@ -166,7 +167,7 @@
         </a>
     </li>   
     <li id="nav-menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
-        <a href="#" class=" no_link" onclick="JavaScript: return false;">
+        <a href="<?php echo site_url().'faq';?>" class=" no_link" onclick="JavaScript: return false;">
             <span class="item_outer">
                 <span class="item_text">FAQ</span>
             </span>
