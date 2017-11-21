@@ -34,14 +34,11 @@
                         <div class=" eltdf-vertical-align-containers">
                 <div class="eltdf-position-left">
                     <div class="eltdf-position-left-inner">
-                        
-
-<div class="eltdf-logo-wrapper">
-    <a itemprop="url" href="http://esmarts.elated-themes.com/" style="height: 55px;">
-        <img itemprop="image" class="eltdf-normal-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo-sticky.png" width="277" height="110"  alt="logo"/>
-        <img itemprop="image" class="eltdf-dark-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo.png" width="342" height="130"  alt="dark logo"/>        <img itemprop="image" class="eltdf-light-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo-light.png" width="342" height="130"  alt="light logo"/>    </a>
-</div>
-
+                        <div class="eltdf-logo-wrapper">
+                            <a itemprop="url" href="http://esmarts.elated-themes.com/" style="height: 55px;">
+                                <img itemprop="image" class="eltdf-normal-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo-sticky.png" width="277" height="110"  alt="logo"/>
+                                <img itemprop="image" class="eltdf-dark-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo.png" width="342" height="130"  alt="dark logo"/>        <img itemprop="image" class="eltdf-light-logo" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo-light.png" width="342" height="130"  alt="light logo"/>    </a>
+                        </div>
                     </div>
                 </div>
                 <div class="eltdf-position-right">
