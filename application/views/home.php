@@ -1,0 +1,1746 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<!--START HEAD-->
+<?php $this->load->view("head");?>
+<!--END HEAD-->
+<body class="home page-template page-template-full-width page-template-full-width-php page page-id-14 eltd-core-1.0 eltd-lms-1.0 eltdf-social-login-1.0 tribe-no-js esmarts-ver-1.0 eltdf-grid-1300 eltdf-content-is-behind-header eltdf-sticky-header-on-scroll-down-up eltdf-dropdown-animate-height eltdf-header-standard eltdf-menu-area-shadow-disable eltdf-menu-area-in-grid-shadow-disable eltdf-menu-area-border-disable eltdf-menu-area-in-grid-border-disable eltdf-logo-area-border-disable eltdf-logo-area-in-grid-border-disable eltdf-side-menu-slide-from-right eltdf-woocommerce-columns-3 eltdf-woo-normal-space eltdf-woo-pl-info-below-image eltdf-woo-single-thumb-below-image eltdf-woo-single-has-pretty-photo eltdf-default-mobile-header eltdf-sticky-up-mobile-header eltdf-header-top-enabled wpb-js-composer js-comp-ver-5.4.4 vc_responsive eltdf-search-covers-header" itemscope itemtype="http://schema.org/WebPage">
+    <section class="eltdf-side-menu">
+	<div class="eltdf-close-side-menu-holder">
+            <a class="eltdf-close-side-menu" href="#" target="_self">
+		<span aria-hidden="true" class="eltdf-icon-font-elegant icon_close"></span>		
+            </a>
+	</div>
+	<div id="media_image-4" class="widget eltdf-sidearea widget_media_image">
+            <a href="<?php echo site_url()?>">
+                <img class="image" src="<?php echo site_url().'static/page_front/images/logo/logo.jpg';?>" alt="logo" width="385" height="103" /></a>
+        </div>
+        <div class="widget eltdf-custom-font-widget">
+            <p class="eltdf-custom-font-holder  eltdf-cf-1202" style="font-family: Crimson Text;font-size: 22px;line-height: 28px;margin: -29px 16% 53px 0px" data-item-class="eltdf-cf-1202">
+                Lorem ipsum dolor sit amet, conse ctetur adip elit, pellentesque turpis.</p>
+        </div>
+        <div class="widget eltdf-separator-widget">
+            <div class="eltdf-separator-holder clearfix  eltdf-separator-center eltdf-separator-normal">
+                <div class="eltdf-separator" style="border-style: solid;margin-top: 0px;margin-bottom: 13px"></div>
+            </div>
+        </div>		
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 2px 5px 0;" href="http://www.twitter.com" target="_blank">
+			<span class=""><i class="fa fa-twitter-square" aria-hidden="true"></i>/<span>		
+                </a>
+				
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 2px 18px 0px 18px;" href="http://www.instagram.com" target="_blank">
+			<span class="eltdf-social-icon-widget  social_instagram"></span>		
+                </a>
+				
+		<a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 0px 0px 0px 2px;" href="http://www.facebook.com" target="_blank">
+			<span class="eltdf-social-icon-widget  social_facebook"></span>		
+                </a>
+		<div id="text-9" class="widget eltdf-sidearea widget_text">			
+                    <div class="textwidget">
+                        <h2 style="display: none;">Empire</h2>
+                    </div>
+		</div>
+        </section>
+    <div class="eltdf-wrapper">
+        <div class="eltdf-wrapper-inner">
+            <div class="eltdf-top-bar">
+		<div class="eltdf-grid">
+                    <div class="eltdf-vertical-align-containers">
+			<div class="eltdf-position-left">
+                            <div class="eltdf-position-left-inner">
+                                <div id="text-3" class="widget widget_text eltdf-top-bar-widget">
+                                    <div class="textwidget">
+                                        <p><?php echo replace_vocales_voculeshtml("Teléfono");?><a href="tel:+443003030266"> +51 300 303 0266</a>&nbsp;&nbsp;&nbsp;  <?php echo replace_vocales_voculeshtml("Síguenos");?></p>
+                                    </div>
+                                </div>		
+                                    <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 7px 0 7px;" href="http://www.twitter.com" target="_blank">
+                                        <span class="eltdf-social-icon-widget  social_twitter"></span>		
+                                    </a>
+                                    <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 8px 0px;" href="http://www.instagram.com" target="_blank">
+                                        <span class="eltdf-social-icon-widget  social_instagram"></span>		
+                                    </a>
+                                    <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 1px 0px 0px 4px;" href="http://www.facebook.com" target="_blank">
+                                        <span class="eltdf-social-icon-widget  social_facebook"></span>		
+                                    </a>
+                            </div>
+                        </div>
+                        <div class="eltdf-position-right">
+                            <div class="eltdf-position-right-inner">
+                                <div class="widget eltdf-login-register-widget eltdf-user-not-logged-in">
+                                    <a href="#" class="eltdf-modal-opener eltdf-login-opener" data-modal="login">Login</a>
+                                    <a href="#" class="eltdf-modal-opener eltdf-register-opener" data-modal="register">Register</a>
+                                </div>											
+                            </div>
+                        </div>
+                    </div>
+		</div>
+            </div>
+	
+	
+<?php $this->load->view("header");?>
+               
+              
+              
+               
+                   
+
+
+<header class="eltdf-mobile-header">
+		
+	<div class="eltdf-mobile-header-inner">
+		<div class="eltdf-mobile-header-holder">
+			<div class="eltdf-grid">
+				<div class="eltdf-vertical-align-containers">
+					<div class="eltdf-vertical-align-containers">
+													<div class="eltdf-mobile-menu-opener">
+								<a href="javascript:void(0)">
+									<span class="eltdf-mobile-menu-icon">
+										<span aria-hidden="true" class="eltdf-icon-font-elegant icon_menu " ></span>									</span>
+																	</a>
+							</div>
+												<div class="eltdf-position-center">
+							<div class="eltdf-position-center-inner">
+								
+
+<div class="eltdf-mobile-logo-wrapper">
+    <a itemprop="url" href="http://esmarts.elated-themes.com/" style="height: 55px">
+        <img itemprop="image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/logo-sticky.png" width="277" height="110"  alt="Mobile Logo"/>
+    </a>
+</div>
+
+							</div>
+						</div>
+						<div class="eltdf-position-right">
+							<div class="eltdf-position-right-inner">
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+<nav class="eltdf-mobile-nav">
+    <div class="eltdf-grid">
+        <ul id="menu-mobile-menu" class=""><li id="mobile-menu-item-2925" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub"><a href="#" class=" current  eltdf-mobile-no-link"><span>Home</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14 current_page_item "><a href="http://esmarts.elated-themes.com/" class=""><span>Home 1</span></a></li>
+	<li id="mobile-menu-item-2927" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-2/" class=""><span>Home 2</span></a></li>
+	<li id="mobile-menu-item-2934" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-3/" class=""><span>Home 3</span></a></li>
+	<li id="mobile-menu-item-2929" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-4/" class=""><span>Home 4</span></a></li>
+	<li id="mobile-menu-item-2932" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-5/" class=""><span>Home 5</span></a></li>
+	<li id="mobile-menu-item-2928" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-6/" class=""><span>Home 6</span></a></li>
+	<li id="mobile-menu-item-2933" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-7/" class=""><span>Home 7</span></a></li>
+	<li id="mobile-menu-item-2931" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-8/" class=""><span>Home 8</span></a></li>
+	<li id="mobile-menu-item-2930" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/home-9/" class=""><span>Home 9</span></a></li>
+	<li id="mobile-menu-item-3026" class="menu-item menu-item-type-post_type menu-item-object-page "><a target="_blank" href="http://esmarts.elated-themes.com/landing/" class=""><span>Landing</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-2935" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Courses</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-3005" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Features</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2937" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/all-courses/" class=""><span>All Courses</span></a></li>
+		<li id="mobile-menu-item-2938" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/standard-list/" class=""><span>Standard List</span></a></li>
+		<li id="mobile-menu-item-2939" class="menu-item menu-item-type-post_type menu-item-object-course "><a href="http://esmarts.elated-themes.com/course/academic-english/" class=""><span>Course Single</span></a></li>
+		<li id="mobile-menu-item-2940" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/user-dashboard/" class=""><span>User dashboard</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2941" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Categories</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-3076" class="menu-item menu-item-type-taxonomy menu-item-object-course-category "><a href="http://esmarts.elated-themes.com/course-category/languages/" class=""><span>Languages</span></a></li>
+		<li id="mobile-menu-item-3078" class="menu-item menu-item-type-taxonomy menu-item-object-course-category "><a href="http://esmarts.elated-themes.com/course-category/it-software/" class=""><span>IT &#038; Software</span></a></li>
+		<li id="mobile-menu-item-3080" class="menu-item menu-item-type-taxonomy menu-item-object-course-category "><a href="http://esmarts.elated-themes.com/course-category/art-design/" class=""><span>Art &#038; Design</span></a></li>
+		<li id="mobile-menu-item-3077" class="menu-item menu-item-type-taxonomy menu-item-object-course-category "><a href="http://esmarts.elated-themes.com/course-category/business/" class=""><span>Business</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="mobile-menu-item-2942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Instructors</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2943" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/become-an-instructor/" class=""><span>Become An Instructor</span></a></li>
+	<li id="mobile-menu-item-2944" class="menu-item menu-item-type-post_type menu-item-object-instructor "><a href="http://esmarts.elated-themes.com/instructor/edward-bowman/" class=""><span>Instructor Single</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-2945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Events</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2947" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://esmarts.elated-themes.com/events/2018-05/" class=""><span>Events Calendar</span></a></li>
+	<li id="mobile-menu-item-2948" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://esmarts.elated-themes.com/events/list" class=""><span>Events List</span></a></li>
+	<li id="mobile-menu-item-4392" class="menu-item menu-item-type-post_type menu-item-object-tribe_events "><a href="http://esmarts.elated-themes.com/event/ui-conference/" class=""><span>Event Single</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-2949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Pages</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2950" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/about-us/" class=""><span>About Us</span></a></li>
+	<li id="mobile-menu-item-2952" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/pricing-plans/" class=""><span>Pricing Plans</span></a></li>
+	<li id="mobile-menu-item-2967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Forums</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2968" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://esmarts.elated-themes.com/forums/" class=""><span>All Forums</span></a></li>
+		<li id="mobile-menu-item-3906" class="menu-item menu-item-type-post_type menu-item-object-forum "><a href="http://esmarts.elated-themes.com/forums/forum/harvard-education/" class=""><span>Forum Single</span></a></li>
+		<li id="mobile-menu-item-2969" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://esmarts.elated-themes.com/forums/topic/online-courses/" class=""><span>Forum Topic</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Blog</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2956" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/blog-standard/" class=""><span>Standard List</span></a></li>
+		<li id="mobile-menu-item-2957" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/blog-masonry/" class=""><span>Masonry List</span></a></li>
+		<li id="mobile-menu-item-2958" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/learning-friendship-and-fun/" class=""><span>Standard Post</span></a></li>
+		<li id="mobile-menu-item-3051" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/helping-students-help-themselves/" class=""><span>Gallery Post</span></a></li>
+		<li id="mobile-menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/class-that-fit-your-busy-life/" class=""><span>Quote Post</span></a></li>
+		<li id="mobile-menu-item-2960" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/choose-your-direction/" class=""><span>Link Post</span></a></li>
+		<li id="mobile-menu-item-3052" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/growing-and-achieving/" class=""><span>Audio Post</span></a></li>
+		<li id="mobile-menu-item-3142" class="menu-item menu-item-type-post_type menu-item-object-post "><a href="http://esmarts.elated-themes.com/knowledge-is-power/" class=""><span>Video Post</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Shop</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2962" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/shop/" class=""><span>Product List</span></a></li>
+		<li id="mobile-menu-item-2963" class="menu-item menu-item-type-post_type menu-item-object-product "><a href="http://esmarts.elated-themes.com/product/ai-future/" class=""><span>Product Single</span></a></li>
+		<li id="mobile-menu-item-3027" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/shop/three-columns-in-grid/" class=""><span>3 Columns Grid</span></a></li>
+		<li id="mobile-menu-item-3468" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/shop/four-columns-in-grid/" class=""><span>4 Columns Grid</span></a></li>
+		<li id="mobile-menu-item-3465" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/shop/five-columns-wide/" class=""><span>5 Columns Wide</span></a></li>
+		<li id="mobile-menu-item-2964" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/my-account/" class=""><span>My account</span></a></li>
+		<li id="mobile-menu-item-2965" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/cart/" class=""><span>Cart</span></a></li>
+		<li id="mobile-menu-item-2966" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/checkout/" class=""><span>Checkout</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2951" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/gallery/" class=""><span>Gallery</span></a></li>
+	<li id="mobile-menu-item-2953" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/contact-us/" class=""><span>Contact Us</span></a></li>
+	<li id="mobile-menu-item-2954" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/faq-page/" class=""><span>FAQ Page</span></a></li>
+	<li id="mobile-menu-item-2970" class="menu-item menu-item-type-custom menu-item-object-custom "><a href="http://esmarts.elated-themes.com/error-page" class=""><span>404 Error Page</span></a></li>
+</ul>
+</li>
+<li id="mobile-menu-item-2971" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Elements</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+<ul class="sub_menu">
+	<li id="mobile-menu-item-2972" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Education Shortcodes</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2973" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/course-list/" class=""><span>Course List</span></a></li>
+		<li id="mobile-menu-item-2974" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/course-table/" class=""><span>Course Table</span></a></li>
+		<li id="mobile-menu-item-2975" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/course-slider/" class=""><span>Course Slider</span></a></li>
+		<li id="mobile-menu-item-2976" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/instructor-list/" class=""><span>Instructor List</span></a></li>
+		<li id="mobile-menu-item-2977" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/education-timeline/" class=""><span>Education Timeline</span></a></li>
+		<li id="mobile-menu-item-3500" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/course-features/" class=""><span>Course Features</span></a></li>
+		<li id="mobile-menu-item-4217" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/linked-image-list/" class=""><span>Linked Image List</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Classic</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2979" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/accordions-toggles/" class=""><span>Accordions &#038; Toggles</span></a></li>
+		<li id="mobile-menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/buttons/" class=""><span>Buttons</span></a></li>
+		<li id="mobile-menu-item-2981" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/blockquote/" class=""><span>Blockquote</span></a></li>
+		<li id="mobile-menu-item-2982" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/contact-form/" class=""><span>Contact Form</span></a></li>
+		<li id="mobile-menu-item-2983" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/icon-with-text/" class=""><span>Icon with Text</span></a></li>
+		<li id="mobile-menu-item-2984" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/separators/" class=""><span>Separators</span></a></li>
+		<li id="mobile-menu-item-2985" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/tabs/" class=""><span>Tabs</span></a></li>
+		<li id="mobile-menu-item-2986" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/typography/" class=""><span>Typography</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Infographic</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2988" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/counters/" class=""><span>Counters</span></a></li>
+		<li id="mobile-menu-item-2989" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/countdown/" class=""><span>Countdown</span></a></li>
+		<li id="mobile-menu-item-2990" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/google-map/" class=""><span>Google Map</span></a></li>
+		<li id="mobile-menu-item-2991" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/pricing-tables/" class=""><span>Pricing Tables</span></a></li>
+		<li id="mobile-menu-item-2992" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/service-table/" class=""><span>Service Table</span></a></li>
+		<li id="mobile-menu-item-2993" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/pie-charts/" class=""><span>Pie Charts</span></a></li>
+		<li id="mobile-menu-item-2994" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/process/" class=""><span>Process</span></a></li>
+		<li id="mobile-menu-item-2995" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/progress-bar/" class=""><span>Progress Bar</span></a></li>
+	</ul>
+</li>
+	<li id="mobile-menu-item-2996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub"><a href="#" class=" eltdf-mobile-no-link"><span>Presentation</span></a><span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
+	<ul class="sub_menu">
+		<li id="mobile-menu-item-2997" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/clients-carousel/" class=""><span>Clients Carousel</span></a></li>
+		<li id="mobile-menu-item-2998" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/banners/" class=""><span>Banners</span></a></li>
+		<li id="mobile-menu-item-2999" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/events-list/" class=""><span>Events List</span></a></li>
+		<li id="mobile-menu-item-3000" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/image-gallery/" class=""><span>Image Gallery</span></a></li>
+		<li id="mobile-menu-item-3001" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/masonry-gallery/" class=""><span>Masonry Gallery</span></a></li>
+		<li id="mobile-menu-item-3002" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/testimonials/" class=""><span>Testimonials</span></a></li>
+		<li id="mobile-menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/twitter-list/" class=""><span>Twitter List</span></a></li>
+		<li id="mobile-menu-item-3004" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="http://esmarts.elated-themes.com/elements/video-button/" class=""><span>Video Button</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>    </div>
+</nav>
+
+	</div>
+	
+	<form action="http://esmarts.elated-themes.com/" class="eltdf-search-cover" method="get">
+				<div class="eltdf-form-holder-outer">
+				<div class="eltdf-form-holder">
+					<div class="eltdf-form-holder-inner">
+						<div class="eltdf-search-icon">
+							<span aria-hidden="true" class="eltdf-icon-font-elegant icon_search "></span>						</div>
+						<input type="text" placeholder="Search here.." name="s" class="eltdf_search_field" autocomplete="off" />
+						<div class="eltdf-search-close">
+							<a href="#">
+								<span aria-hidden="true" class="eltdf-icon-font-elegant icon_close "></span>							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+	</form></header>
+
+			<a id='eltdf-back-to-top' href='#'>
+                <span class="eltdf-icon-stack">
+                     <span class="eltdf-icon-font-elegant arrow_carrot-up  "></span>                </span>
+			</a>
+			        
+            <div class="eltdf-content" style="margin-top: -141px">
+                <div class="eltdf-content-inner">	<div class="eltdf-slider">
+		<div class="eltdf-slider-inner">
+			<link href="http://fonts.googleapis.com/css?family=Nothing+You+Could+Do:400%7CMontserrat:700%7COpen+Sans:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+<div id="rev_slider_1_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-source="gallery" style="margin:0px auto;background:#42495b;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.4.6.3.1 auto mode -->
+	<div id="rev_slider_1_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3.1">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-1" data-transition="crossfade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power1.easeIn" data-easeout="default" data-masterspeed="default"  data-thumb="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-background-100x50.jpg"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7" data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-background.jpg"  alt="a" title="h1-background"  width="1900" height="1242" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="9" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-16" data-transition="crossfade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power1.easeIn" data-easeout="default" data-masterspeed="default"  data-thumb="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-background-2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-background-2.jpg"  alt="a" title="h1-background-2"  width="1900" height="1242" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="9" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-17" data-transition="crossfade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power1.easeIn" data-easeout="default" data-masterspeed="default"  data-thumb="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-background-3-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-background-3.jpg"  alt="a" title="h1-background-3"  width="1900" height="1242" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="9" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div style="" class="tp-static-layers">
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-14" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','2']" 
+			 data-y="['middle','middle','middle','top']" data-voffset="['-65','-70','-250','140']" 
+						data-fontsize="['450','320','300','120']"
+			data-lineheight="['450','350','350','120']"
+			data-width="none"
+			data-height="none"
+			data-whitespace="nowrap"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":450,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+950","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 5; white-space: nowrap; font-size: 450px; line-height: 450px; font-weight: 400; color: rgba(255,255,255,0.25); letter-spacing: 0px;font-family:Nothing You Could Do;text-transform:lowercase;">World </div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-16" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','top']" data-voffset="['-18','-85','-196','150']" 
+						data-fontsize="['90','80','80','50']"
+			data-lineheight="['100','100','90','60']"
+			data-width="['none','none','601','300']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','normal','normal']"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":400,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+1000","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 6; white-space: nowrap; font-size: 90px; line-height: 100px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;">We Can Teach You! </div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-17" 
+			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
+			 data-y="['middle','middle','middle','top']" data-voffset="['68','-14','-80','284']" 
+						data-fontsize="['24','24','22','22']"
+			data-width="['none','none','none','301']"
+			data-height="none"
+			data-whitespace="['nowrap','nowrap','nowrap','normal']"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":500,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+900","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 30px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">Create an all-encompassing website for your school with ease.  </div>
+
+		<!-- LAYER NR. 4 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-18" 
+			 data-x="['center','center','center','center']" data-hoffset="['-113','-109','-110','0']" 
+			 data-y="['middle','middle','middle','top']" data-voffset="['149','59','-8','377']" 
+						data-width="['200','200','200','300']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":600,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+800","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 8; min-width: 200px; max-width: 200px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;"><a itemprop="url" href="https://themeforest.net/item/esmarts-a-modern-education-and-lms-theme/20987760?_ga=2.263348364.1601097953.1510652419-1801313814.1481040657" target="_blank" style="padding: 10px 69px" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >
+    <span class="eltdf-btn-text">Sign Up!</span>
+                <span class="eltdf-btn-hover-item"></span>
+    </a> </div>
+
+		<!-- LAYER NR. 5 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-19" 
+			 data-x="['center','center','center','center']" data-hoffset="['110','110','110','0']" 
+			 data-y="['middle','middle','middle','top']" data-voffset="['149','59','-8','440']" 
+						data-width="['200','200','200','300']"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":600,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+800","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 9; min-width: 200px; max-width: 200px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;"><a itemprop="url" href="http://esmarts.elated-themes.com/landing/" target="_blank"  class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-light eltdf-hover-animation"  >
+    <span class="eltdf-btn-text">Learn More</span>
+                <span class="eltdf-btn-hover-item"></span>
+    </a> </div>
+
+		<!-- LAYER NR. 6 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-20" 
+			 data-x="['center','center','center','center']" data-hoffset="['-386','-386','-154','0']" 
+			 data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','687']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"","delay":""}]'
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 10; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #4582ff">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-1.png" class="attachment-full size-full" alt="a" />		</div>
+				<span class="eltdf-banner-title" >Language</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/vocabulary-games/" target="_self"></a>
+	</div> </div>
+
+		<!-- LAYER NR. 7 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-22" 
+			 data-x="['center','center','center','center']" data-hoffset="['-232','-232','0','0']" 
+			 data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','847']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 11; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #04d2c8">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-6.png" class="attachment-full size-full" alt="a" />		</div>
+				<span class="eltdf-banner-title" >Business</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/digital-leadership/" target="_self"></a>
+	</div> </div>
+
+		<!-- LAYER NR. 8 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-23" 
+			 data-x="['center','center','center','center']" data-hoffset="['-78','-78','154','0']" 
+			 data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','1007']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 12; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #454080">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-3.png" class="attachment-full size-full" alt="" />		</div>
+				<span class="eltdf-banner-title" >Literature</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/expository-writing/" target="_self"></a>
+	</div> </div>
+
+		<!-- LAYER NR. 9 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-24" 
+			 data-x="['center','center','center','center']" data-hoffset="['76','76','-154','-434']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','25']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+			data-visibility="['on','on','on','off']"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 13; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #ff9900">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-2.png" class="attachment-full size-full" alt="a" />		</div>
+				<span class="eltdf-banner-title" >Software</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/app-developer/" target="_self"></a>
+	</div> </div>
+
+		<!-- LAYER NR. 10 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-25" 
+			 data-x="['center','center','center','center']" data-hoffset="['230','230','0','441']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','245']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+			data-visibility="['on','on','on','off']"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 14; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #42495b">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-1.png" class="attachment-full size-full" alt="a" />		</div>
+				<span class="eltdf-banner-title" >Design</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/logo-design/" target="_self"></a>
+	</div> </div>
+
+		<!-- LAYER NR. 11 -->
+		<div class="tp-caption   tp-static-layer" 
+			 id="slider-1-layer-26" 
+			 data-x="['center','center','center','center']" data-hoffset="['384','384','154','-490']" 
+			 data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','260']" 
+						data-width="127"
+			data-height="none"
+			data-whitespace="normal"
+			data-visibility="['on','on','on','off']"
+ 
+			data-type="text" 
+			data-basealign="slide" 
+			data-responsive_offset="off" 
+			data-responsive="off"
+			data-startslide="0" 
+			data-endslide="2" 
+			data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+			data-textAlign="['center','center','center','center']"
+			data-paddingtop="[0,0,0,0]"
+			data-paddingright="[0,0,0,0]"
+			data-paddingbottom="[0,0,0,0]"
+			data-paddingleft="[0,0,0,0]"
+
+			style="z-index: 15; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;"><div class="eltdf-banner-simple-holder " style="background-color: #04d2c8">
+			<div class="eltdf-bs-icon">
+			<img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-4.png" class="attachment-full size-full" alt="a" />		</div>
+				<span class="eltdf-banner-title" >Coaching</span>
+				<a itemprop="url" class="eltdf-bs-link" href="http://esmarts.elated-themes.com/course/hr-menagement/" target="_self"></a>
+	</div> </div>
+</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+						if(htmlDiv) {
+							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+						}else{
+							var htmlDiv = document.createElement("div");
+							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+						}
+					</script>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+setREVStartSize({c: jQuery('#rev_slider_1_1'), responsiveLevels: [1920,1500,850,680], gridwidth: [1300,1100,600,480], gridheight: [980,677,924,1622], sliderLayout: 'auto'});
+			
+var revapi1,
+	tpj=jQuery;
+			
+tpj(document).ready(function() {
+	if(tpj("#rev_slider_1_1").revolution == undefined){
+		revslider_showDoubleJqueryError("#rev_slider_1_1");
+	}else{
+		revapi1 = tpj("#rev_slider_1_1").show().revolution({
+			sliderType:"standard",
+			jsFileLocation:"//esmarts.elated-themes.com/wp-content/plugins/revslider/public/assets/js/",
+			sliderLayout:"auto",
+			dottedOverlay:"none",
+			delay:3000,
+			navigation: {
+				keyboardNavigation:"off",
+				keyboard_direction: "horizontal",
+				mouseScrollNavigation:"off",
+ 							mouseScrollReverse:"default",
+				onHoverStop:"off",
+				arrows: {
+					style:"elated-white",
+					enable:true,
+					hide_onmobile:true,
+					hide_under:1200,
+					hide_onleave:false,
+					tmp:'<span class="eltdf-nav-arrow"></span>',
+					left: {
+						h_align:"left",
+						v_align:"center",
+						h_offset:15,
+						v_offset:67
+					},
+					right: {
+						h_align:"right",
+						v_align:"center",
+						h_offset:15,
+						v_offset:67
+					}
+				}
+			},
+			responsiveLevels:[1920,1500,850,680],
+			visibilityLevels:[1920,1500,850,680],
+			gridwidth:[1300,1100,600,480],
+			gridheight:[980,677,924,1622],
+			lazyType:"none",
+			parallax: {
+				type:"scroll",
+				origo:"enterpoint",
+				speed:400,
+				speedbg:0,
+				speedls:0,
+				levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,55],
+			},
+			shadow:0,
+			spinner:"off",
+			stopLoop:"off",
+			stopAfterLoops:-1,
+			stopAtSlide:-1,
+			shuffle:"off",
+			autoHeight:"off",
+			disableProgressBar:"on",
+			hideThumbsOnMobile:"off",
+			hideSliderAtLimit:0,
+			hideCaptionAtLimit:0,
+			hideAllCaptionAtLilmit:0,
+			debugMode:false,
+			fallbacks: {
+				simplifyAll:"off",
+				nextSlideOnWindowFocus:"off",
+				disableFocusListener:false,
+			}
+		});
+	}
+	
+});	/*ready*/
+</script>
+		<script>
+					var htmlDivCss = unescape(".elated-white.tparrows%20%7B%0A%09background%3A%20none%3B%0A%20%20%20%20width%3A%2060px%3B%0A%20%20%20%20height%3A%2060px%3B%0A%7D%0A%0A.elated-white.tparrows%3Abefore%20%7B%0A%09display%3A%20none%3B%0A%7D%0A%0A.elated-white.tparrows.tp-leftarrow%20.eltdf-nav-arrow%2C%20%0A.elated-white.tparrows.tp-rightarrow%20.eltdf-nav-arrow%20%7B%0A%20%20%20%20position%3A%20relative%3B%0A%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20display%3A%20inline-block%3B%0A%20%20%20%20vertical-align%3A%20middle%3B%0A%20%20%20%20color%3A%20%23fff%3B%0A%20%20%20%20font-size%3A%2060px%3B%0A%20%20%20%20line-height%3A%201%3B%0A%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20-webkit-transform%3A%20rotateX%280%29%20translate3d%280%2C0%2C0%29%3B%0A%20%20%20%20-moz-transform%3A%20rotateX%280%29%20translate3d%280%2C0%2C0%29%3B%0A%20%20%20%20transform%3A%20rotateX%280%29%20translate3d%280%2C0%2C0%29%3B%0A%20%20%20%20-webkit-transition%3A%20color%20.2s%20ease-out%2C%20transform%20.3s%20ease%3B%0A%20%20%20%20-moz-transition%3A%20color%20.2s%20ease-out%2C%20transform%20.3s%20ease%3B%0A%20%20%20%20transition%3A%20color%20.2s%20ease-out%2C%20transform%20.3s%20ease%3B%0A%7D%0A%0A.elated-white.tparrows.tp-leftarrow%3Ahover%20.eltdf-nav-arrow%2C%0A.elated-white.tparrows.tp-rightarrow%3Ahover%20.eltdf-nav-arrow%20%7B%0A%09color%3A%20rgba%28255%2C255%2C255%2C.8%29%3B%0A%7D%0A%0A.elated-white.tparrows.tp-leftarrow%3Ahover%20.eltdf-nav-arrow%20%7B%0A%20%20%20%20-webkit-transform%3A%20rotateX%28180deg%29%20translate3d%28-10px%2C0%2C0%29%3B%0A%20%20%20%20-moz-transform%3A%20rotateX%28180deg%29%20translate3d%28-10px%2C0%2C0%29%3B%0A%20%20%20%20transform%3A%20rotateX%28180deg%29%20translate3d%28-10px%2C0%2C0%29%3B%0A%7D%0A%0A.elated-white.tparrows.tp-rightarrow%3Ahover%20.eltdf-nav-arrow%20%7B%0A%20%20%20%20-webkit-transform%3A%20rotateX%28180deg%29%20translate3d%2810px%2C0%2C0%29%3B%0A%20%20%20%20-moz-transform%3A%20rotateX%28180deg%29%20translate3d%2810px%2C0%2C0%29%3B%0A%20%20%20%20transform%3A%20rotateX%28180deg%29%20translate3d%2810px%2C0%2C0%29%3B%0A%7D%0A%0A.elated-white.tparrows.tp-leftarrow%20.eltdf-nav-arrow%3Abefore%2C%20%0A.elated-white.tparrows.tp-rightarrow%20.eltdf-nav-arrow%3Abefore%20%7B%0A%09display%3A%20inline-block%3B%0A%20%20%20%20vertical-align%3A%20top%3B%0A%09font-family%3A%20%22Linearicons-Free%22%20%21important%3B%0A%20%20%20%20font-style%3A%20normal%20%21important%3B%0A%20%20%20%20font-weight%3A%20normal%20%21important%3B%0A%20%20%20%20font-variant%3A%20normal%20%21important%3B%0A%20%20%20%20text-transform%3A%20none%20%21important%3B%0A%20%20%20%20speak%3A%20none%3B%0A%20%20%20%20line-height%3A%20inherit%3B%0A%20%20%20%20-webkit-font-smoothing%3A%20antialiased%3B%0A%20%20%20%20-moz-osx-font-smoothing%3A%20grayscale%3B%0A%7D%0A%0A.elated-white.tparrows.tp-leftarrow%20.eltdf-nav-arrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce875%22%3B%0A%7D%0A%0A.elated-white.tparrows.tp-rightarrow%20.eltdf-nav-arrow%3Abefore%20%7B%0A%20%20%20%20content%3A%20%22%5Ce876%22%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER -->		</div>
+	</div>
+
+<div class="eltdf-full-width">
+	<div class="eltdf-full-width-inner">
+					<div class="eltdf-grid-row">
+				<div class="eltdf-page-content-holder eltdf-grid-col-12">
+					<div class="eltdf-row-grid-section-wrapper "  style="background-color:#ffffff"><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1509544021040" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				learn			</span>
+							<span class="eltdf-st-tagline" >
+				Guaranteed Success			</span>
+							<h2 class="eltdf-st-title" >
+				Our Services			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim.			</span>
+			</div>
+</div><div class="vc_empty_space"   style="height: 93px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-elements-holder   eltdf-three-columns  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-9013" data-1280-1600="8px 75px 0px" data-1024-1280="8px 50px 0px" data-768-1024="8px 0px 0px" data-680-768="0px 50px" data-680="0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-9013" style="padding: 8px 75px 0">
+			<div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+	<div class="eltdf-iwt-icon">
+					<a itemprop="url" href="#" target="_self">
+									<img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-7.png" class="attachment-full size-full" alt="a" />								</a>
+			</div>
+	<div class="eltdf-iwt-content" style="padding-top: 0px">
+					<h4 class="eltdf-iwt-title" style="margin-top: 3px">
+									<a itemprop="url" href="#" target="_self">
+								<span class="eltdf-iwt-title-text">Notification &amp; Emails</span>
+									</a>
+							</h4>
+							<p class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. Phasellus vehic sagittis euismod. </p>
+			</div>
+</div><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+		</div>
+	</div>
+</div><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-5020" data-1280-1600="1px 75px 0px" data-1024-1280="1px 50px 0px" data-768-1024="0px" data-680-768="0px 50px" data-680="0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-5020" style="padding: 0px 75px">
+			<div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+	<div class="eltdf-iwt-icon">
+					<a itemprop="url" href="#" target="_self">
+									<img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-8.png" class="attachment-full size-full" alt="a" />								</a>
+			</div>
+	<div class="eltdf-iwt-content" style="padding-top: 0px">
+					<h4 class="eltdf-iwt-title" style="margin-top: 10px">
+									<a itemprop="url" href="#" target="_self">
+								<span class="eltdf-iwt-title-text">Certification</span>
+									</a>
+							</h4>
+							<p class="eltdf-iwt-text" style="margin-top: 11px">Phasellus vehic sagittis euismod. Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. </p>
+			</div>
+</div><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+		</div>
+	</div>
+</div><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-6171" data-1280-1600="1px 75px 0px" data-1024-1280="1px 50px 0px" data-768-1024="1px 0px 0px" data-680-768="0px 50px" data-680="0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-6171" style="padding: 0px 75px 0px">
+			<div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+	<div class="eltdf-iwt-icon">
+					<a itemprop="url" href="#" target="_self">
+									<img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-9.png" class="attachment-full size-full" alt="a" />								</a>
+			</div>
+	<div class="eltdf-iwt-content" style="padding-top: 0px">
+					<h4 class="eltdf-iwt-title" style="margin-top: 10px">
+									<a itemprop="url" href="#" target="_self">
+								<span class="eltdf-iwt-title-text">Europe Campus</span>
+									</a>
+							</h4>
+							<p class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. Phasellus vehic sagittis euismod. </p>
+			</div>
+</div><div class="vc_empty_space"   style="height: 50px" ><span class="vc_empty_space_inner"></span></div>
+		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper eltdf-parallax-row-holder" data-parallax-bg-image=http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-background-1.jpg data-parallax-bg-speed=1 style="background-color:#4582ff"><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1509548721259" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-section-title-holder  " style="padding: 0 19%;text-align: center">
+	<div class="eltdf-st-inner">
+									<h2 class="eltdf-st-title" style="color: #ffffff">
+				Popular Online Courses			</h2>
+							<span class="eltdf-st-text" style="color: #ffffff">
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim.			</span>
+			</div>
+</div><div class="vc_empty_space"   style="height: 93px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-course-slider-holder "><div class="eltdf-course-list-holder eltdf-cl-gallery eltdf-small-space eltdf-cl-four-columns eltdf-cl-standard eltdf-cl-pag-no-pagination   eltdf-nav-light-skin eltdf-nav-full-width eltdf-pag-light-skin eltdf-pag-below-slider"  data-number-of-columns="4" data-space-between-items="small" data-number-of-items="8" data-enable-image="yes" data-image-proportions="landscape" data-order-by="date" data-order="ASC" data-item-layout="standard" data-enable-title="yes" data-title-tag="h4" data-enable-instructor="yes" data-enable-price="yes" data-enable-excerpt="yes" data-excerpt-length="82" data-enable-students="yes" data-enable-ratings="yes" data-pagination-type="no-pagination" data-filter="no" data-enable-article-animation="no" data-course-slider-on="yes" data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="5000" data-slider-speed-animation="600" data-enable-navigation="yes" data-navigation-skin="light" data-navigation-position="full-width" data-enable-pagination="yes" data-pagination-skin="light" data-pagination-position="below-slider" data-widget="no" data-max-num-pages="3" data-next-page="2">
+		<div class="eltdf-cl-inner eltdf-owl-slider eltdf-pl-is-slider eltdf-grid clearfix">
+		<article class="eltdf-cl-item eltdf-item-space post-845 course type-course status-publish has-post-thumbnail hentry course-category-languages"  data-name=academic-english data-date=1507593600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/" target="_self">
+		Academic English	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jacke-masito/" target="_self">
+    <span class="eltdf-instructor-name">
+       Jacke Masito    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-free">
+        Free      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/academic-english/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-1031 course type-course status-publish has-post-thumbnail hentry course-category-it-software"  data-name=pc-systems data-date=1507680000>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/pc-systems/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-3-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/pc-systems/" target="_self">
+		PC Systems	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/judith-stevens/" target="_self">
+    <span class="eltdf-instructor-name">
+       Judith Stevens    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          80&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/pc-systems/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2125 course type-course status-publish has-post-thumbnail hentry course-category-it-software"  data-name=web-technology data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/web-technology/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-4-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/web-technology/" target="_self">
+		Web Technology	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/judith-stevens/" target="_self">
+    <span class="eltdf-instructor-name">
+       Judith Stevens    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-free">
+        Free      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/web-technology/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2126 course type-course status-publish has-post-thumbnail hentry course-category-it-software"  data-name=it-foundations data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/it-foundations/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-5-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/it-foundations/" target="_self">
+		IT Foundations	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/ana-murphy/" target="_self">
+    <span class="eltdf-instructor-name">
+       Ana Murphy    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          45&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/it-foundations/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2128 course type-course status-publish has-post-thumbnail hentry course-category-business"  data-name=hr-menagement data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/hr-menagement/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-13-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/hr-menagement/" target="_self">
+		HR Menagement	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/richard-dune/" target="_self">
+    <span class="eltdf-instructor-name">
+       Richard Dune    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          20&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/hr-menagement/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2131 course type-course status-publish has-post-thumbnail hentry course-category-art-design"  data-name=modeling data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/modeling/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-17-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/modeling/" target="_self">
+		Modeling	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/glen-anderson/" target="_self">
+    <span class="eltdf-instructor-name">
+       Glen Anders    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          20&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/modeling/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2132 course type-course status-publish has-post-thumbnail hentry course-category-business"  data-name=basic-marketing data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/basic-marketing/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-18-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/basic-marketing/" target="_self">
+		Basic Marketing	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/richard-dune/" target="_self">
+    <span class="eltdf-instructor-name">
+       Richard Dune    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          40&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/basic-marketing/" target="_self"></a>
+	</div>
+</article><article class="eltdf-cl-item eltdf-item-space post-2133 course type-course status-publish has-post-thumbnail hentry course-category-languages"  data-name=business-english data-date=1508457600>
+	<div class="eltdf-cl-item-inner">
+		<div class="eltdf-cli-image">
+			<a itemprop="url" href="http://esmarts.elated-themes.com/course/business-english/">
+			<img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-14-1-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" />		</a>
+	</div>
+<div class="eltdf-cli-text-holder">
+	<div class="eltdf-cli-text-inner">
+		<div class="eltdf-cli-text-inner-2">
+							<h4 itemprop="name" class="eltdf-cli-title entry-title" >
+	<a itemprop="url" href="http://esmarts.elated-themes.com/course/business-english/" target="_self">
+		Business English	</a>
+	</h4>
+			<div class="eltdf-cli-top-info">
+				<a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jack-stevens/" target="_self">
+    <span class="eltdf-instructor-name">
+       Jack Stevens    </span>
+</a>
+							</div>
+				<p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
+			<div class="eltdf-cli-bottom-info">
+				<div class="eltdf-students-number-holder">
+	<span class="eltdf-student-icon"></span>
+	<span class="eltdf-student-label">
+		1		Students	</span>
+</div>
+				<div class="eltdf-course-ratings">
+	<span class="eltdf-course-rating-icon"></span>
+	<span class="eltdf-course-rating-label">
+		5		Ratings	</span>
+</div>				<div class="eltdf-ci-price-holder">
+			<span class="eltdf-ci-price-value">
+          20&#36;      </span>
+	</div>
+			</div>
+		</div>
+	</div>
+</div>		<a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/business-english/" target="_self"></a>
+	</div>
+</article>	</div>
+	
+	</div></div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "  ><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1507037802472 vc_row-has-fill" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037309686"><div class="wpb_wrapper"><div class="eltdf-tabs  eltdf-tabs-vertical">
+	<ul class="eltdf-tabs-nav clearfix">
+					<li>
+									<a href="#tab-what-we-do">What We Do</a>
+							</li>
+					<li>
+									<a href="#tab-education-centre">Education Centre</a>
+							</li>
+					<li>
+									<a href="#tab-were-already-there">We’re Already There</a>
+							</li>
+					<li>
+									<a href="#tab-your-financial-bridge">Your Financial Bridge</a>
+							</li>
+					<li>
+									<a href="#tab-word-class-experts">Word-Class Experts</a>
+							</li>
+			</ul>
+	<div class="eltdf-tab-container" id="tab-what-we-do-614"><div class="vc_row wpb_row vc_inner vc_row-fluid" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037319037"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-2244" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px" data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-2244" style="padding: 0px 250px 0px 0px">
+			<div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="text-align: left">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				about			</span>
+							<span class="eltdf-st-tagline" >
+				Our Difference			</span>
+							<h2 class="eltdf-st-title" >
+				What We Do			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.			</span>
+			</div>
+</div>		</div>
+	</div>
+</div></div><div class="vc_empty_space"   style="height: 41px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipsum dolor sit amet consectetur adipiscing</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Nulla ante eros, venenatis vel malesuada sit amet</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipscras maximus turpis eget erat</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" > Vestibulum vitae libero neque</p>
+</div><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div><div class="eltdf-tab-container" id="tab-education-centre-617"><div class="vc_row wpb_row vc_inner vc_row-fluid" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037198733"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-7953" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px" data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-7953" style="padding: 0px 250px 0px 0px">
+			<div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="text-align: left">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				about			</span>
+							<span class="eltdf-st-tagline" >
+				Our Difference			</span>
+							<h2 class="eltdf-st-title" >
+				Education Centre			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.			</span>
+			</div>
+</div>		</div>
+	</div>
+</div></div><div class="vc_empty_space"   style="height: 41px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Nulla ante eros, venenatis vel malesuada sit amet</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipsum dolor sit amet consectetur adipiscing</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" > Vestibulum vitae libero neque</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipscras maximus turpis eget erat</p>
+</div><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div><div class="eltdf-tab-container" id="tab-were-already-there-438"><div class="vc_row wpb_row vc_inner vc_row-fluid" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037206165"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-9006" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px" data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-9006" style="padding: 0px 250px 0px 0px">
+			<div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="text-align: left">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				about			</span>
+							<span class="eltdf-st-tagline" >
+				Our Difference			</span>
+							<h2 class="eltdf-st-title" >
+				We’re already there			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.			</span>
+			</div>
+</div>		</div>
+	</div>
+</div></div><div class="vc_empty_space"   style="height: 41px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipsum dolor sit amet consectetur adipiscing</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Nulla ante eros, venenatis vel malesuada sit amet</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipscras maximus turpis eget erat</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" > Vestibulum vitae libero neque</p>
+</div><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div><div class="eltdf-tab-container" id="tab-your-financial-bridge-707"><div class="vc_row wpb_row vc_inner vc_row-fluid" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037214045"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-6864" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px" data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-6864" style="padding: 0px 250px 0px 0px">
+			<div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="text-align: left">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				about			</span>
+							<span class="eltdf-st-tagline" >
+				Our Difference			</span>
+							<h2 class="eltdf-st-title" >
+				Your Financial Bridge			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.			</span>
+			</div>
+</div>		</div>
+	</div>
+</div></div><div class="vc_empty_space"   style="height: 41px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Nulla ante eros, venenatis vel malesuada sit amet</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipsum dolor sit amet consectetur adipiscing</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" > Vestibulum vitae libero neque</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipscras maximus turpis eget erat</p>
+</div><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div><div class="eltdf-tab-container" id="tab-word-class-experts-931"><div class="vc_row wpb_row vc_inner vc_row-fluid" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1507037221197"><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-9294" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px" data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-9294" style="padding: 0px 250px 0px 0px">
+			<div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="text-align: left">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				about			</span>
+							<span class="eltdf-st-tagline" >
+				Our Difference			</span>
+							<h2 class="eltdf-st-title" >
+				Word-Class Experts			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.			</span>
+			</div>
+</div>		</div>
+	</div>
+</div></div><div class="vc_empty_space"   style="height: 41px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipsum dolor sit amet consectetur adipiscing</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Nulla ante eros, venenatis vel malesuada sit amet</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" >Lorem ipscras maximus turpis eget erat</p>
+</div><div class="vc_empty_space"   style="height: 18px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
+	<div class="eltdf-il-icon-holder">
+		<span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span>	</div>
+	<p class="eltdf-il-text" > Vestibulum vitae libero neque</p>
+</div><div class="vc_empty_space"   style="height: 30px" ><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div></div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "  style="background-color:#fafafa"><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1507038306089" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				process			</span>
+							<span class="eltdf-st-tagline" >
+				Research &amp; Pedagogy			</span>
+							<h2 class="eltdf-st-title" >
+				How It Works?			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim.			</span>
+			</div>
+</div><div class="vc_empty_space"   style="height: 93px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-process-holder  eltdf-four-columns eltdf-responsive-768">
+	<div class="eltdf-process-background" ></div>
+	<div class="eltdf-process-inner">
+		<div class="eltdf-process-item ">
+	<div class="eltdf-pi-image">
+				<img width="228" height="228" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-1.png" class="attachment-full size-full" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-1.png 228w, http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-1-150x150.png 150w" sizes="(max-width: 228px) 100vw, 228px" />			</div>
+			<h4 class="eltdf-pi-title" >Facility</h4>
+				<p class="eltdf-pi-text" >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	</div><div class="eltdf-process-item ">
+	<div class="eltdf-pi-image">
+				<img width="278" height="279" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-2.png" class="attachment-full size-full" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-2.png 278w, http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-2-150x150.png 150w" sizes="(max-width: 278px) 100vw, 278px" />			</div>
+			<h4 class="eltdf-pi-title" >E-Learning</h4>
+				<p class="eltdf-pi-text" >Nulla ante eros, venenatis vel malesuada sit amet luctus.</p>
+	</div><div class="eltdf-process-item ">
+	<div class="eltdf-pi-image">
+				<img width="236" height="236" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-3.png" class="attachment-full size-full" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-3.png 236w, http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-3-150x150.png 150w" sizes="(max-width: 236px) 100vw, 236px" />			</div>
+			<h4 class="eltdf-pi-title" >Kid&#039;s Courses</h4>
+				<p class="eltdf-pi-text" >Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+	</div><div class="eltdf-process-item ">
+	<div class="eltdf-pi-image">
+				<img width="228" height="228" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-4.png" class="attachment-full size-full" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-4.png 228w, http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-process-4-150x150.png 150w" sizes="(max-width: 228px) 100vw, 228px" />			</div>
+			<h4 class="eltdf-pi-title" >Best Students</h4>
+				<p class="eltdf-pi-text" >Nulla ante eros, venenatis vel malesuada sit amet luctus.</p>
+	</div>	</div>
+</div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper eltdf-parallax-row-holder" data-parallax-bg-image=http://esmarts.elated-themes.com/wp-content/uploads/2017/09/testimonials-background-1.jpg data-parallax-bg-speed=1 style="background-color:#42495b"><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1507041812571" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 " ><div class="eltdf-eh-item    "  data-item-class="eltdf-eh-custom-3214" data-1280-1600="0px 21%" data-1024-1280="0px 18%" data-768-1024="0px 0%" data-680-768="0px 0%" data-680="0px 0%">
+	<div class="eltdf-eh-item-inner">
+		<div class="eltdf-eh-item-content eltdf-eh-custom-3214" style="padding: 0px 23%">
+			<div class="eltdf-testimonials-holder eltdf-testimonials-standard eltdf-testimonials-light eltdf-testimonials-nav-light clearfix"><div class="eltdf-testimonials eltdf-owl-slider " data-number-of-items="1"  data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="5000" data-slider-speed-animation="600" data-enable-navigation="no" data-enable-pagination="yes"><div class="eltdf-testimonial-content" id="eltdf-testimonials-211">
+	<div class="eltdf-testimonial-content-inner">
+					<div class="eltdf-testimonial-image">
+				<img width="121" height="121" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t4-150x150.png" class="attachment-121x121 size-121x121 wp-post-image" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t4-150x150.png 150w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t4.png 200w" sizes="(max-width: 121px) 100vw, 121px" />			</div>
+							<p class="eltdf-testimonial-text">Hendrerit placerat odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. Nulla ante eros, venenatis vel malesuada sit amet, luctus id lectus. Donec lacinia orci.</p>
+							<h4 class="eltdf-testimonial-author">Cecily Brown</h4>
+							<h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+			</div>
+</div><div class="eltdf-testimonial-content" id="eltdf-testimonials-210">
+	<div class="eltdf-testimonial-content-inner">
+					<div class="eltdf-testimonial-image">
+				<img width="121" height="121" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t5-150x150.png" class="attachment-121x121 size-121x121 wp-post-image" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t5-150x150.png 150w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t5.png 200w" sizes="(max-width: 121px) 100vw, 121px" />			</div>
+							<p class="eltdf-testimonial-text">Donec lacinia orci augue, at vehicula turpis efficitur eu. Fusce fringilla arcu ut neque dapibus, hendrerit placerat odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. </p>
+							<h4 class="eltdf-testimonial-author">John Evans</h4>
+							<h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+			</div>
+</div><div class="eltdf-testimonial-content" id="eltdf-testimonials-200">
+	<div class="eltdf-testimonial-content-inner">
+					<div class="eltdf-testimonial-image">
+				<img width="121" height="121" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t6-150x150.png" class="attachment-121x121 size-121x121 wp-post-image" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t6-150x150.png 150w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h1-t6.png 200w" sizes="(max-width: 121px) 100vw, 121px" />			</div>
+							<p class="eltdf-testimonial-text">Hendrerit placerat odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. Nulla ante eros, venenatis vel malesuada sit amet, luctus id lectus. Donec lacinia orci.</p>
+							<h4 class="eltdf-testimonial-author">Annie Page</h4>
+							<h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+			</div>
+</div></div></div>		</div>
+	</div>
+</div></div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "  style="background-color:#fafafa"><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1507044271135" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-section-title-holder  eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
+	<div class="eltdf-st-inner">
+					<span class="eltdf-st-watermark" >
+				profit			</span>
+							<span class="eltdf-st-tagline" >
+				Advising Success			</span>
+							<h2 class="eltdf-st-title" >
+				Pricing Plans			</h2>
+							<span class="eltdf-st-text" >
+				Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim.			</span>
+			</div>
+</div><div class="vc_empty_space"   style="height: 93px" ><span class="vc_empty_space_inner"></span></div>
+<div class="eltdf-pricing-tables clearfix eltdf-three-columns eltdf-normal-space"><div class="eltdf-pt-wrapper eltdf-outer-space"><div class="eltdf-price-table eltdf-item-space  eltdf-pt-skin-orange">
+	<div class="eltdf-pt-inner">
+		<ul>
+							<li class="eltdf-pt-star-holder">
+											<span class="eltdf-pt-star icon_star"></span>
+									</li>
+										<li class="eltdf-pt-title-holder">
+					<h4 class="eltdf-pt-title">Basic Plan</h4>
+				</li>
+						<li class="eltdf-pt-prices">
+				<span class="eltdf-pt-price">$20</span>
+				<span class="eltdf-pt-mark">per month</span>
+			</li>
+			<li class="eltdf-pt-content">
+				
+<ul>
+<li>One Online Course</li>
+<li>One E-Book</li>
+<li>1  Hour of Mentorship</li>
+<li>Guided Progress</li>
+</ul>
+			</li>
+							<li class="eltdf-pt-button">
+					<a itemprop="url" href="#" target="_self"  class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >    <span class="eltdf-btn-text">Purchase</span>                <span class="eltdf-btn-hover-item"></span>    </a>				</li>				
+					</ul>
+	</div>
+</div><div class="eltdf-price-table eltdf-item-space  eltdf-pt-skin-green">
+	<div class="eltdf-pt-inner">
+		<ul>
+							<li class="eltdf-pt-star-holder">
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+									</li>
+										<li class="eltdf-pt-title-holder">
+					<h4 class="eltdf-pt-title">Professional</h4>
+				</li>
+						<li class="eltdf-pt-prices">
+				<span class="eltdf-pt-price">$50</span>
+				<span class="eltdf-pt-mark">per month</span>
+			</li>
+			<li class="eltdf-pt-content">
+				
+<ul>
+<li>Five Online Courses</li>
+<li>Unlimited E-Book</li>
+<li>10  Hours of Mentorship</li>
+<li>Guided Progress</li>
+</ul>
+			</li>
+							<li class="eltdf-pt-button">
+					<a itemprop="url" href="#" target="_self"  class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >    <span class="eltdf-btn-text">Purchase</span>                <span class="eltdf-btn-hover-item"></span>    </a>				</li>				
+					</ul>
+	</div>
+</div><div class="eltdf-price-table eltdf-item-space  eltdf-pt-skin-blue">
+	<div class="eltdf-pt-inner">
+		<ul>
+							<li class="eltdf-pt-star-holder">
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+											<span class="eltdf-pt-star icon_star"></span>
+									</li>
+										<li class="eltdf-pt-title-holder">
+					<h4 class="eltdf-pt-title">Exclusive</h4>
+				</li>
+						<li class="eltdf-pt-prices">
+				<span class="eltdf-pt-price">$100</span>
+				<span class="eltdf-pt-mark">per month</span>
+			</li>
+			<li class="eltdf-pt-content">
+				
+<ul>
+<li>Unlimited Online Courses</li>
+<li>Unlimited E-Books</li>
+<li>50  Hours of Mentorship</li>
+<li>Guided Progress</li>
+</ul>
+			</li>
+							<li class="eltdf-pt-button">
+					<a itemprop="url" href="#" target="_self"  class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >    <span class="eltdf-btn-text">Purchase</span>                <span class="eltdf-btn-hover-item"></span>    </a>				</li>				
+					</ul>
+	</div>
+</div></div></div></div></div></div></div></div></div><div class="eltdf-row-grid-section-wrapper "  ><div class="eltdf-row-grid-section"><div class="vc_row wpb_row vc_row-fluid vc_custom_1507103672276" ><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="eltdf-clients-carousel-holder eltdf-cc-hover-switch-images">
+	<div class="eltdf-cc-inner eltdf-owl-slider" data-number-of-items="5" data-enable-loop="yes" data-enable-autoplay="yes" data-slider-speed="3500" data-slider-speed-animation="600" data-enable-navigation="no" data-enable-pagination="no">
+		<div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-1.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-1-hover.png" alt="a" />
+					</a>
+	</div><div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-2.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-2-hover.png" alt="a" />
+					</a>
+	</div><div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-3.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-3-hover.png" alt="a" />
+					</a>
+	</div><div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-4.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-4-hover.png" alt="a" />
+					</a>
+	</div><div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-5.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-5-hover.png" alt="a" />
+					</a>
+	</div><div class="eltdf-cc-item">
+			<a itemprop="url" class="eltdf-cc-link eltdf-block-drag-link" href="#" target="_self">
+						<img itemprop="image" class="eltdf-cc-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-3.png" alt="a" />
+							<img itemprop="image" class="eltdf-cc-hover-image" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-client-3-hover.png" alt="a" />
+					</a>
+	</div>	</div>
+</div></div></div></div></div></div></div>
+				</div>
+							</div>
+			</div>
+</div>
+
+</div> <!-- close div.content_inner -->
+	</div>  <!-- close div.content -->
+					
+        <!--START FOOTER-->
+        <?php $this->load->view("footer");?>
+        <!--END FOOTER-->
+
+        
+</div> <!-- close div.eltdf-wrapper-inner  -->
+</div> <!-- close div.eltdf-wrapper -->
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script type='text/javascript'> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script><div class="eltdf-login-holder eltdf-modal-holder" data-modal="login">
+	<div class="eltdf-login-content eltdf-modal-content">
+		<div class="eltdf-login-content-inner eltdf-modal-content-inner">
+			<span class="eltdf-wp-login-icon lnr lnr-user"></span>
+			<h3>User Login</h3>
+			<div class="eltdf-wp-login-holder">
+				<div class="eltdf-wp-login-holder"><div class="eltdf-social-login-holder">
+    <div class="eltdf-social-login-holder-outer">
+        <div class="eltdf-social-login-holder-inner">
+            <form method="post" class="eltdf-login-form">
+                                <fieldset>
+                    <div>
+                        <label class="eltdf-username-label">Username*</label>
+                        <input type="text" name="user_login_name" id="user_login_name"  value="" required pattern=".{3,}" title="Three or more characters"/>
+                    </div>
+                    <div>
+                        <label class="eltdf-password-label">Password*</label>
+                        <input type="password" name="user_login_password" id="user_login_password" value="" required/>
+                    </div>
+                    <div class="eltdf-lost-pass-remember-holder clearfix">
+                        <div class="eltdf-remember-holder">
+                            <span class="eltdf-login-remember">
+                                <input name="rememberme" value="forever" id="rememberme" type="checkbox"/>
+                                <label for="rememberme" class="eltdf-checbox-label">Remember me</label>
+                            </span>
+                        </div>
+                        <div class="eltdf-lost-pass-holder">
+                            <a href="#" class="eltdf-modal-opener" data-modal="password">Lost your password?</a>
+                        </div>
+                    </div>
+                    <input type="hidden" name="redirect" id="redirect" value="">
+                    <div class="eltdf-login-button-holder">
+                        <button type="submit"  class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >    <span class="eltdf-btn-text">Login</span>                <span class="eltdf-btn-hover-item"></span>    </button>                        <input type="hidden" id="eltdf-login-security" name="eltdf-login-security" value="eced90d513" /><input type="hidden" name="_wp_http_referer" value="/" />                    </div>
+                    <div class="eltdf-register-link-holder">
+                        <span class="eltdf-register-label">
+                            Not a member yet?                        </span>
+                        <a href="#" class="eltdf-modal-opener" data-modal="register">Register Now</a>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+                        <div class="eltdf-login-form-social-login">
+                    <div class="eltdf-login-social-title">
+                        <span>Recommended</span>
+                    </div>
+                    <div class="eltdf-login-social-networks">
+                        <form class="eltdf-facebook-login-holder"><input type="hidden" id="eltdf_nonce_facebook_login_108499620" name="eltdf_nonce_facebook_login_108499620" value="4a00702d1d" /><input type="hidden" name="_wp_http_referer" value="/" /><button type="submit" style="background-color: #3b5998;border-color: #3b5998" class="eltdf-btn eltdf-btn-small eltdf-btn-solid eltdf-btn-default eltdf-btn-custom-hover-bg eltdf-btn-custom-border-hover eltdf-btn-icon eltdf-facebook-login " data-hover-bg-color="#4363A5" data-hover-border-color="#4363A5" >    <span class="eltdf-btn-text">FACEBOOK</span>    <i class="eltdf-icon-font-awesome fa fa-facebook " ></i>    </button></form><form class="eltdf-google-login-holder"><input type="hidden" id="eltdf_nonce_google_login_1358800018" name="eltdf_nonce_google_login_1358800018" value="a74bc1af1b" /><input type="hidden" name="_wp_http_referer" value="/" /><button type="submit" style="background-color: #dd4b39;border-color: #dd4b39" class="eltdf-btn eltdf-btn-small eltdf-btn-solid eltdf-btn-default eltdf-btn-custom-hover-bg eltdf-btn-custom-border-hover eltdf-btn-icon eltdf-google-login " data-hover-bg-color="#e05d4c" data-hover-border-color="#e05d4c" >    <span class="eltdf-btn-text">GOOOGLE +</span>    <i class="eltdf-icon-font-awesome fa fa-google-plus " ></i>    </button></form>                    </div>
+                    <div class="eltdf-login-social-info">
+                        Connect with Social Networks                    </div>
+                </div>
+                </div>
+    <div class="eltdf-membership-response-holder clearfix"></div><script type="text/template" class="eltdf-membership-response-template">
+					<div class="eltdf-membership-response <%= messageClass %> ">
+						<div class="eltdf-membership-response-message">
+							<p><%= message %></p>
+						</div>
+					</div>
+				</script></div></div>
+			</div>
+		</div>
+	</div>
+</div><div class="eltdf-register-holder eltdf-modal-holder" data-modal="register">
+    <div class="eltdf-register-content eltdf-modal-content">
+        <div class="eltdf-register-content-inner eltdf-modal-content-inner" id="eltdf-register-content">
+	        <span class="eltdf-wp-login-icon lnr lnr-pencil"></span>
+            <h3>User Registration</h3>
+            <div class="eltdf-wp-register-holder">
+                <div class="eltdf-social-register-holder">
+	<form method="post" class="eltdf-register-form">
+		<fieldset>
+			<div>
+				<label class="eltdf-username-label">User Name</label>
+				<input type="text" name="user_register_name" id="user_register_name" value="" required pattern=".{3,}" title="Three or more characters"/>
+			</div>
+			<div>
+				<label class="eltdf-username-label">Email</label>
+				<input type="email" name="user_register_email" id="user_register_email" value="" required />
+			</div>
+            <div>
+	            <label class="eltdf-username-label">Password</label>
+                <input type="password" name="user_register_password" id="user_register_password" value="" required />
+            </div>
+            <div>
+	            <label class="eltdf-username-label">Repeat Password</label>
+                <input type="password" name="user_register_confirm_password" id="user_register_confirm_password" value="" required />
+            </div>
+			<div class="eltdf-register-button-holder">
+				<button type="submit"  class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-light eltdf-hover-animation"  >    <span class="eltdf-btn-text">REGISTER</span>                <span class="eltdf-btn-hover-item"></span>    </button><input type="hidden" id="eltdf-register-security" name="eltdf-register-security" value="c2927019de" /><input type="hidden" name="_wp_http_referer" value="/" />			</div>
+		</fieldset>
+	</form>
+	<div class="eltdf-membership-response-holder clearfix"></div><script type="text/template" class="eltdf-membership-response-template">
+					<div class="eltdf-membership-response <%= messageClass %> ">
+						<div class="eltdf-membership-response-message">
+							<p><%= message %></p>
+						</div>
+					</div>
+				</script></div>            </div>
+        </div>
+    </div>
+</div><div class="eltdf-password-holder eltdf-modal-holder" data-modal="password">
+    <div class="eltdf-password-content eltdf-modal-content">
+        <div class="eltdf-reset-pass-content-inner eltdf-modal-content-inner" id="eltdf-reset-pass-content">
+	        <span class="eltdf-wp-login-icon lnr lnr-lock"></span>
+            <h3>Reset Password</h3>
+            <div class="eltdf-wp-reset-pass-holder">
+                <div class="eltdf-social-reset-password-holder">
+	<form action="http://esmarts.elated-themes.com/wp-login.php?action=lostpassword" method="post" id="eltdf-lost-password-form" class="eltdf-reset-pass-form">
+		<div>
+			<input type="text" name="user_reset_password_login" class="eltdf-input-field" id="user_reset_password_login" placeholder="Enter username or email" value="" size="20" required>
+		</div>
+				<div class="eltdf-reset-password-button-holder">
+			<button type="submit"  class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"  >    <span class="eltdf-btn-text">NEW PASSWORD</span>                <span class="eltdf-btn-hover-item"></span>    </button>		</div>
+	</form>
+	<div class="eltdf-membership-response-holder clearfix"></div><script type="text/template" class="eltdf-membership-response-template">
+					<div class="eltdf-membership-response <%= messageClass %> ">
+						<div class="eltdf-membership-response-message">
+							<p><%= message %></p>
+						</div>
+					</div>
+				</script></div>            </div>
+        </div>
+    </div>
+</div>			<script type="text/javascript">
+				function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+			</script>
+			<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/54de2.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/esmarts.elated-themes.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/0fef6.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eltdfGlobalVars = {"vars":{"eltdfAddForAdminBar":0,"eltdfElementAppearAmount":-100,"eltdfAjaxUrl":"http:\/\/esmarts.elated-themes.com\/wp-admin\/admin-ajax.php","eltdfStickyHeaderHeight":0,"eltdfStickyHeaderTransparencyHeight":70,"eltdfTopBarHeight":45,"eltdfLogoAreaHeight":0,"eltdfMenuAreaHeight":141,"eltdfMobileHeaderHeight":70}};
+var eltdfPerPageVars = {"vars":{"eltdfStickyScrollAmount":0,"eltdfHeaderTransparencyHeight":0,"eltdfHeaderVerticalWidth":0}};
+/* ]]> */
+</script>
+
+
+
+
+
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/d7a7b.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var eltdfSocialLoginVars = {"social":{"facebookAppId":"","googleClientId":""}};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/9f74d.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/esmarts.elated-themes.com\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/63a69.js"></script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"http:\/\/esmarts.elated-themes.com\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_5a311e4445b1160a50887ef56dbdc816"};
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/f2539.js"></script>
+
+<script type='text/javascript' src='//maps.googleapis.com/maps/api/js?ver=4.9'></script>
+
+<script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/a8cb8.js"></script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 24975/26827 objects using disk
+Page Caching using disk: enhanced
+Minified using disk
+Database Caching 26/655 queries in 0.417 seconds using disk
+
+ Served from: esmarts.elated-themes.com @ 2017-11-21 06:22:12 by W3 Total Cache -->
