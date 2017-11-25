@@ -76,8 +76,11 @@
       <!--//END HEADER MOBILE-->
       <!--ARROW TOP-->
         
-          <a id='eltdf-back-to-top' href='#'> <span class="eltdf-icon-stack"> <span class="eltdf-icon-font-elegant arrow_carrot-up "></span>                                                                        </span>
-          </a>
+      <a id='eltdf-back-to-top' href='#'> 
+          <span class="eltdf-icon-stack"> 
+              <i class="fa fa-arrow-circle-up" aria-hidden="true"></i>
+          </span>
+      </a>
           <div class="eltdf-content">
             <div class="eltdf-content-inner">
               <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive"
@@ -89,12 +92,12 @@
                   <div class="eltdf-title-inner">
                     <div class="eltdf-grid">
                       <div class="eltdf-title-info">
-                        <h2 class="eltdf-page-title entry-title">FAQ Page</h2>
+                        <h2 class="eltdf-page-title entry-title">FAQ's</h2>
                       </div>
                       <div class="eltdf-breadcrumbs-info">
-                        <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="http://esmarts.elated-themes.com/">Home</a>
+                          <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a>
                           <span
-                            class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">FAQ Page</span></div>
+                            class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">FAQ's</span></div>
                       </div>
                     </div>
                   </div>
