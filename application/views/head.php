@@ -1,7 +1,7 @@
 <head>
     <link rel="stylesheet" type="text/css" href="http://esmarts.elated-themes.com/wp-content/cache/minify/4b85a.css" media="all" />
+    <!--<link rel="stylesheet" type="text/css" href=<?php //echo site_url().'static/page_front/css/4b85a.css';?>"" media="all" />-->
     <meta charset="UTF-8"/>
-    <link rel="profile" href="http://gmpg.org/xfn/11"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
     <title>Empire Academy</title>
 <link rel='dns-prefetch' href='//apis.google.com' />
@@ -53,10 +53,7 @@
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
 /* ]]> */
 </script>
-<link rel='https://api.w.org/' href='http://esmarts.elated-themes.com/wp-json/' />
-
-<meta name="tec-api-version" content="v1">
-<meta name="tec-api-origin" content="http://esmarts.elated-themes.com">
+<link rel='https://api.w.org/' href='http://esmarts.elated-themes.com/wp-json/'/>
 <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://esmarts.elated-themes.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
 

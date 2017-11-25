@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <!--START HEAD-->
-<?php $this->load->view("head");
- ?>
+<?php $this->load->view("head");?>
 <!--END HEAD-->
 
-<body class="home page-template page-template-full-width page-template-full-width-php page page-id-14 eltd-core-1.0 eltd-lms-1.0 eltdf-social-login-1.0 tribe-no-js esmarts-ver-1.0 eltdf-grid-1300 eltdf-content-is-behind-header eltdf-sticky-header-on-scroll-down-up eltdf-dropdown-animate-height eltdf-header-standard eltdf-menu-area-shadow-disable eltdf-menu-area-in-grid-shadow-disable eltdf-menu-area-border-disable eltdf-menu-area-in-grid-border-disable eltdf-logo-area-border-disable eltdf-logo-area-in-grid-border-disable eltdf-side-menu-slide-from-right eltdf-woocommerce-columns-3 eltdf-woo-normal-space eltdf-woo-pl-info-below-image eltdf-woo-single-thumb-below-image eltdf-woo-single-has-pretty-photo eltdf-default-mobile-header eltdf-sticky-up-mobile-header eltdf-header-top-enabled wpb-js-composer js-comp-ver-5.4.4 vc_responsive eltdf-search-covers-header"
-  itemscope itemtype="http://schema.org/WebPage">
+<body class="home page-template page-template-full-width page-template-full-width-php page page-id-14 eltd-core-1.0 eltd-lms-1.0 eltdf-social-login-1.0 tribe-no-js esmarts-ver-1.0 eltdf-grid-1300 eltdf-content-is-behind-header eltdf-sticky-header-on-scroll-down-up eltdf-dropdown-animate-height eltdf-header-standard eltdf-menu-area-shadow-disable eltdf-menu-area-in-grid-shadow-disable eltdf-menu-area-border-disable eltdf-menu-area-in-grid-border-disable eltdf-logo-area-border-disable eltdf-logo-area-in-grid-border-disable eltdf-side-menu-slide-from-right eltdf-woocommerce-columns-3 eltdf-woo-normal-space eltdf-woo-pl-info-below-image eltdf-woo-single-thumb-below-image eltdf-woo-single-has-pretty-photo eltdf-default-mobile-header eltdf-sticky-up-mobile-header eltdf-header-top-enabled wpb-js-composer js-comp-ver-5.4.4 vc_responsive eltdf-search-covers-header" itemscope itemtype="http://schema.org/WebPage">
   <!--SECTION RIGTH ABOUT-->
   <section class="eltdf-side-menu">
     <div class="eltdf-close-side-menu-holder">
@@ -58,7 +56,6 @@
                     <i class="fa fa-youtube" aria-hidden="true"></i> </a>
                 <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 8px 0px;" href="http://www.instagram.com" target="_blank"> 
                     <i class="fa fa-instagram" aria-hidden="true"></i> </a>
-                
                 <!--END SOCIAL LINK-->
               </div>
             </div>
@@ -975,8 +972,7 @@
   </div>
   <!-- close div.content -->
   <!--START FOOTER-->
-  <?php $this->load->view("footer");
- ?>
+  <?php $this->load->view("footer");?>
   <!--END FOOTER-->
   </div>
   <!-- close div.eltdf-wrapper-inner -->
@@ -1011,123 +1007,10 @@
     
     /* ]]> */
   </script>
-  <div class="eltdf-login-holder eltdf-modal-holder" data-modal="login">
-    <div class="eltdf-login-content eltdf-modal-content">
-      <div class="eltdf-login-content-inner eltdf-modal-content-inner"><span class="eltdf-wp-login-icon lnr lnr-user"></span>
-        <h3>User Login</h3>
-        <div class="eltdf-wp-login-holder">
-          <div class="eltdf-wp-login-holder">
-            <div class="eltdf-social-login-holder">
-              <div class="eltdf-social-login-holder-outer">
-                <div class="eltdf-social-login-holder-inner">
-                  <form method="post" class="eltdf-login-form">
-                    <fieldset>
-                      <div> <label class="eltdf-username-label">Username*</label> <input type="text" name="user_login_name" id="user_login_name" value="" required
-                          pattern=".{3,}" title="Three or more characters" /> </div>
-                      <div> <label class="eltdf-password-label">Password*</label> <input type="password" name="user_login_password" id="user_login_password"
-                          value="" required/> </div>
-                      <div class="eltdf-lost-pass-remember-holder clearfix">
-                        <div class="eltdf-remember-holder"> <span class="eltdf-login-remember"> <input name="rememberme" value="forever" id="rememberme" type="checkbox"/> <label for="rememberme" class="eltdf-checbox-label">Remember me</label> </span>                          </div>
-                        <div class="eltdf-lost-pass-holder"> <a href="#" class="eltdf-modal-opener" data-modal="password">Lost your password?</a> </div>
-                      </div> <input type="hidden" name="redirect" id="redirect" value="">
-                      <div class="eltdf-login-button-holder"> <button type="submit" class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"> <span class="eltdf-btn-text">Login</span> <span class="eltdf-btn-hover-item"></span> </button>                        <input type="hidden" id="eltdf-login-security" name="eltdf-login-security" value="eced90d513" /><input type="hidden" name="_wp_http_referer"
-                          value="/" /> </div>
-                      <div class="eltdf-register-link-holder"> <span class="eltdf-register-label"> Not a member yet? </span> <a href="#" class="eltdf-modal-opener" data-modal="register">Register Now</a>                        </div>
-                    </fieldset>
-                  </form>
-                </div>
-                <div class="eltdf-login-form-social-login">
-                  <div class="eltdf-login-social-title"> <span>Recommended</span> </div>
-                  <div class="eltdf-login-social-networks">
-                    <form class="eltdf-facebook-login-holder"><input type="hidden" id="eltdf_nonce_facebook_login_108499620" name="eltdf_nonce_facebook_login_108499620" value="4a00702d1d" /><input
-                        type="hidden" name="_wp_http_referer" value="/" /><button type="submit" style="background-color: #3b5998;border-color: #3b5998" class="eltdf-btn eltdf-btn-small eltdf-btn-solid eltdf-btn-default eltdf-btn-custom-hover-bg eltdf-btn-custom-border-hover eltdf-btn-icon eltdf-facebook-login "
-                        data-hover-bg-color="#4363A5" data-hover-border-color="#4363A5"> <span class="eltdf-btn-text">FACEBOOK</span> <i class="eltdf-icon-font-awesome fa fa-facebook " ></i> </button></form>
-                    <form
-                      class="eltdf-google-login-holder"><input type="hidden" id="eltdf_nonce_google_login_1358800018" name="eltdf_nonce_google_login_1358800018" value="a74bc1af1b" /><input
-                        type="hidden" name="_wp_http_referer" value="/" /><button type="submit" style="background-color: #dd4b39;border-color: #dd4b39" class="eltdf-btn eltdf-btn-small eltdf-btn-solid eltdf-btn-default eltdf-btn-custom-hover-bg eltdf-btn-custom-border-hover eltdf-btn-icon eltdf-google-login "
-                        data-hover-bg-color="#e05d4c" data-hover-border-color="#e05d4c"> <span class="eltdf-btn-text">GOOOGLE +</span> <i class="eltdf-icon-font-awesome fa fa-google-plus " ></i> </button></form>
-                  </div>
-                  <div class="eltdf-login-social-info"> Connect with Social Networks </div>
-                </div>
-              </div>
-              <div class="eltdf-membership-response-holder clearfix"></div>
-              <script type="text/template" class="eltdf-membership-response-template">
-                <div class="eltdf-membership-response <%= messageClass %> ">
-                  <div class="eltdf-membership-response-message">
-                    <p>
-                      <%=message %>
-                    </p>
-                  </div>
-                </div>
-              </script>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="eltdf-register-holder eltdf-modal-holder" data-modal="register">
-    <div class="eltdf-register-content eltdf-modal-content">
-      <div class="eltdf-register-content-inner eltdf-modal-content-inner" id="eltdf-register-content"> <span class="eltdf-wp-login-icon lnr lnr-pencil"></span>
-        <h3>User Registration</h3>
-        <div class="eltdf-wp-register-holder">
-          <div class="eltdf-social-register-holder">
-            <form method="post" class="eltdf-register-form">
-              <fieldset>
-                <div><label class="eltdf-username-label">User Name</label><input type="text" name="user_register_name" id="user_register_name" value="" required
-                    pattern=".{3,}" title="Three or more characters" /></div>
-                <div><label class="eltdf-username-label">Email</label><input type="email" name="user_register_email" id="user_register_email" value="" required
-                  /></div>
-                <div> <label class="eltdf-username-label">Password</label> <input type="password" name="user_register_password" id="user_register_password" value=""
-                    required /> </div>
-                <div> <label class="eltdf-username-label">Repeat Password</label> <input type="password" name="user_register_confirm_password" id="user_register_confirm_password"
-                    value="" required /> </div>
-                <div class="eltdf-register-button-holder"><button type="submit" class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-light eltdf-hover-animation"> <span class="eltdf-btn-text">REGISTER</span> <span class="eltdf-btn-hover-item"></span> </button><input
-                    type="hidden" id="eltdf-register-security" name="eltdf-register-security" value="c2927019de" /><input type="hidden" name="_wp_http_referer"
-                    value="/" /></div>
-              </fieldset>
-            </form>
-            <div class="eltdf-membership-response-holder clearfix"></div>
-            <script type="text/template" class="eltdf-membership-response-template">
-              <div class="eltdf-membership-response <%= messageClass %> ">
-                <div class="eltdf-membership-response-message">
-                  <p>
-                    <%=message %>
-                  </p>
-                </div>
-              </div>
-            </script>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="eltdf-password-holder eltdf-modal-holder" data-modal="password">
-    <div class="eltdf-password-content eltdf-modal-content">
-      <div class="eltdf-reset-pass-content-inner eltdf-modal-content-inner" id="eltdf-reset-pass-content"> <span class="eltdf-wp-login-icon lnr lnr-lock"></span>
-        <h3>Reset Password</h3>
-        <div class="eltdf-wp-reset-pass-holder">
-          <div class="eltdf-social-reset-password-holder">
-            <form action="http://esmarts.elated-themes.com/wp-login.php?action=lostpassword" method="post" id="eltdf-lost-password-form" class="eltdf-reset-pass-form">
-              <div><input type="text" name="user_reset_password_login" class="eltdf-input-field" id="user_reset_password_login" placeholder="Enter username or email"
-                  value="" size="20" required></div>
-              <div class="eltdf-reset-password-button-holder"><button type="submit" class="eltdf-btn eltdf-btn-large eltdf-btn-solid eltdf-btn-default eltdf-hover-animation"> <span class="eltdf-btn-text">NEW PASSWORD</span> <span class="eltdf-btn-hover-item"></span> </button></div>
-            </form>
-            <div class="eltdf-membership-response-holder clearfix"></div>
-            <script type="text/template" class="eltdf-membership-response-template">
-              <div class="eltdf-membership-response <%= messageClass %> ">
-                <div class="eltdf-membership-response-message">
-                  <p>
-                    <%=message %>
-                  </p>
-                </div>
-              </div>
-            </script>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+  <!--START LOGIN, REGISTER AND RESET PASSWORD MODAL-->
+  <?php $this->load->view("login");?>
+  <!--END LOGIN, REGISTER AND RESET PASSWORD MODAL-->
+  
   <script type="text/javascript">
     function revslider_showDoubleJqueryError(sliderID) {
         var errorMessage="Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
@@ -1138,7 +1021,7 @@
         jQuery(sliderID).show().html(errorMessage);
     }
   </script>
-  <script type="text/javascript" src="http://esmarts.elated-themes.com/wp-content/cache/minify/54de2.js"></script>
+  <script type="text/javascript" src="<?php echo site_url().'static/page_front/js/54de2.js';?>"></script>
   <script type='text/javascript'>
     /* <![CDATA[ */
      var wpcf7= {

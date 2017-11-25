@@ -1,7 +1,7 @@
 <nav class="eltdf-main-menu eltdf-drop-down eltdf-default-nav">
     <ul id="menu-main-menu" class="clearfix">
         <li id="nav-menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children eltdf-active-item has_sub narrow">
-            <a href="<?php echo site_url().'home';?>" class=" current  no_link" onclick="JavaScript: return false;">
+            <a href="<?php echo site_url().'home';?>" class=" current  no_link">
                 <span class="item_outer">
                     <span class="item_text">Home</span><i class="eltdf-menu-arrow fa fa-angle-down"></i>
                 </span>
@@ -10,7 +10,7 @@
         <li id="nav-menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide wide-two-columns">
             <a href="<?php echo site_url().'courses';?>" class=" no_link" onclick="JavaScript: return false;">
                 <span class="item_outer">
-                    <span class="item_text">Courses</span><i class="eltdf-menu-arrow fa fa-angle-down"></i>
+                    <span class="item_text">Cursos</span><i class="eltdf-menu-arrow fa fa-angle-down"></i>
                 </span>
             </a>
         <div class="second">
@@ -167,7 +167,7 @@
         </a>
     </li>   
     <li id="nav-menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub wide">
-        <a href="<?php echo site_url().'faq';?>" class=" no_link" onclick="JavaScript: return false;">
+        <a href="<?php echo site_url().'faq';?>" class=" no_link">
             <span class="item_outer">
                 <span class="item_text">FAQ</span>
             </span>

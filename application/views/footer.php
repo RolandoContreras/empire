@@ -10,7 +10,7 @@
                             </div>
                     </div>		
                     <a class="eltdf-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" href="tel:+443003030266" target="_self" style="color: #fff;margin: -10px 0px 6px">
-                            <span class="eltdf-icon-element icon-call-in"></span>			
+                            <i class="fa fa-phone" aria-hidden="true"></i>			
                             <span class="eltdf-icon-text ">+44 300 303 0266</span>		
                     </a>
                     <div class="widget eltdf-separator-widget">
@@ -19,7 +19,7 @@
                         </div>
                     </div>		
                     <a class="eltdf-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" href="#" target="_self" style="color: #fff">
-                        <span class="eltdf-icon-element icon-clock"></span>			
+                        <i class="fa fa-clock-o" aria-hidden="true"></i>
                         <span class="eltdf-icon-text ">Mon - Sat 8.00 - 18.00</span>		
                     </a>
                 </div>

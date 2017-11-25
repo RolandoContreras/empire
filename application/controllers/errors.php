@@ -28,7 +28,9 @@ class Errors extends CI_Controller
  function error_404()
  {
  //llamamos a la vista que muestra el error 404 personalizado
- $this->load->view('errors/404');
+     
+// $this->load->view('errors/404');
+ $this->load->view('home');
  }
 }
 /* End of file errors.php */

@@ -3,20 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/wamp/www/empire/application/controllers/courses.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/faq.php</file>
-            <file>file:/C:/wamp/www/empire/application/config/config.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/about.php</file>
-            <file>file:/C:/wamp/www/empire/application/config/routes.php</file>
-            <file>file:/C:/wamp/www/empire/application/controllers/about.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/contact.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/header.php</file>
-            <file>file:/C:/wamp/www/empire/application/controllers/contact.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/welcome_message.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/nav.php</file>
+            <file>file:/C:/wamp/www/empire/application/views/footer.php</file>
             <file>file:/C:/wamp/www/empire/application/views/home.php</file>
-            <file>file:/C:/wamp/www/empire/application/controllers/b_data.php</file>
-            <file>file:/C:/wamp/www/empire/application/views/plan.php</file>
+            <file>file:/C:/wamp/www/empire/static/page_front/css/4b85a.css</file>
+            <file>file:/C:/wamp/www/empire/application/views/head.php</file>
         </group>
     </open-files>
 </project-private>
