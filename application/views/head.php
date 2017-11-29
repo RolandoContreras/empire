@@ -1,9 +1,8 @@
 <head>
     <link rel="stylesheet" type="text/css" href="http://esmarts.elated-themes.com/wp-content/cache/minify/4b85a.css" media="all" />
-    <!--<link rel="stylesheet" type="text/css" href=<?php //echo site_url().'static/page_front/css/4b85a.css';?>"" media="all" />-->
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes">
-    <title>Empire Academy</title>
+    <title>The Empire Academy</title>
 <link rel='dns-prefetch' href='//apis.google.com' />
 <link rel='dns-prefetch' href='//maps.googleapis.com' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
