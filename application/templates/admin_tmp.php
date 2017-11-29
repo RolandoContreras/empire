@@ -48,7 +48,7 @@
         <div class="navbar-inner">
             <div class="container-fluid">
                 <a class="brand" href="<?php echo site_url();?>dashboard/panel">
-                    <img src="<?php echo site_url().'static/page_front/images/logo/logo_small.png'?>" alt="logo" width="50"></a>
+                    <img src="<?php echo site_url().'static/page_front/images/logo/logo_empire.png'?>" alt="logo" width="80"></a>
                 <div class="btn-toolbar pull-right">                        
                 <!-- /btn-group -->
                     <div class="btn-group">
@@ -73,20 +73,7 @@
                 <!-- sidebar -->
             <div id="sidebar" class="span2">			
                     <div class="accordion custom-acc" id="accordionSB">
-                            <div class="accordion-group">
-                                    <div class="accordion-heading">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#post">
-                                        Publicaciones
-                                        </a>
-                                    </div>
-                                    <div id="post" class="accordion-body collapse">
-                                      <div class="accordion-inner">
-                                        <ul class="nav nav-list">
-                                             <li><a href="<?php echo site_url()."dashboard/activaciones";?>"><i class="icon-large icon-th"></i>Publicaciones</a></li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                            </div>
+                            
                         <?php if($_SESSION['usercms']['privilage'] == 3){ ?>
                             <div class="accordion-group fs">
                                     <div class="accordion-heading">
@@ -109,7 +96,21 @@
                                     </div>
                             </div>
                             <?php } ?>
-                        
+                            
+                            <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#post">
+                                        Publicaciones
+                                        </a>
+                                    </div>
+                                    <div id="post" class="accordion-body collapse">
+                                      <div class="accordion-inner">
+                                        <ul class="nav nav-list">
+                                             <li><a href="<?php echo site_url()."dashboard/activaciones";?>"><i class="icon-large icon-th"></i>Publicaciones</a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                            </div>
                             <div class="accordion-group">
                                 <div class="accordion-heading">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#reportes">
@@ -136,30 +137,7 @@
                                 </div>
                             </div>
                         
-                        <?php if($_SESSION['usercms']['privilage'] == 2){ ?>
-                            <div class="accordion-group">
-                                <div class="accordion-heading">
-                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#report">
-                                    Reportes
-                                    </a>
-                                </div>
-                                <div id="report" class="accordion-body collapse">
-                                    <div class="accordion-inner">
-                                        <ul class="nav nav-list">
-                                            <li>
-                                                <a href="<?php echo site_url()."dashboard/reportes_comision";?>"><i class="icon-large icon-th"></i>Total Comisiones</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?php echo site_url()."dashboard/reporte_comision_x_asociado";?>"><i class="icon-large icon-th"></i>Comisión x Asociado</a>
-                                            </li>
-                                            <li>
-                                                <a href="<?php echo site_url()."dashboard/reportes_asociados";?>"><i class="icon-large icon-th"></i>Asociados</a>
-                                            </li>
-                                        </ul>                                     
-                                    </div>
-                                </div>
-                            </div>
-                        <?php } ?>
+                            
                     </div>
             </div>
             <!-- sidebar 

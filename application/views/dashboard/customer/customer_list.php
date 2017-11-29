@@ -34,8 +34,15 @@
                             </tr>
                         </thead>
                         <tbody>
+                            
+                            <?php 
+                            if(count($obj_customer) > 0){ ?>
                             <tr>
-                            <?php foreach ($obj_customer as $value): ?>
+                                <td colspan="8" style="text-align: center">No hay clientes registrados</td>
+                            </tr>
+                            <?php }else{ ?>
+                            <tr>    <?php
+                                foreach ($obj_customer as $value): ?>
                                 <td align="center"><b><?php echo $value->customer_id;?></b></td>
                                 <td align="center"><b><?php echo $value->username;?></b></td>
                                 <td align="center"><?php echo $value->first_name." ".$value->last_name;?></td>
@@ -69,7 +76,8 @@
                                     </div>
                                 </td>
                             </tr>
-                            <?php endforeach; ?>
+                            <?php endforeach;
+                            } ?>
                         </tbody>
                     </table>
             </div>
@@ -81,7 +89,7 @@
 <script type="text/javascript">
    $(document).ready(function() {
     $('#table').dataTable( {
-         "order": [[ 0, "desc" ]]
+         "order": [[ 8, "desc" ]]
     } );
 } );
 </script>
