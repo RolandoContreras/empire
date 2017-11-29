@@ -157,7 +157,7 @@
                                             <div class="comment_container span12" style="margin-left:auto;">
                                                 <div class="span10" style="margin-left:auto;">
                                                     <div class="comment_content">
-                                                        <h4><b>NO HAY MENSAJES</b></h4>
+                                                        <p>NO HAY MENSAJES</p>
                                                     </div>
                                                 </div>
                                             </div>

@@ -73,6 +73,21 @@
                 <!-- sidebar -->
             <div id="sidebar" class="span2">			
                     <div class="accordion custom-acc" id="accordionSB">
+                            <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#post">
+                                        Publicaciones
+                                        </a>
+                                    </div>
+                                    <div id="post" class="accordion-body collapse">
+                                      <div class="accordion-inner">
+                                        <ul class="nav nav-list">
+                                             <li><a href="<?php echo site_url()."dashboard/activaciones";?>"><i class="icon-large icon-th"></i>Publicaciones</a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                            </div>
+                        <?php if($_SESSION['usercms']['privilage'] == 3){ ?>
                             <div class="accordion-group fs">
                                     <div class="accordion-heading">
                                         <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#dashboardsb">
@@ -93,54 +108,7 @@
                                         </div>
                                     </div>
                             </div>
-                            <?php 
-                            if($_SESSION['usercms']['privilage'] == 3){ ?>
-                                <div class="accordion-group">
-                                    <div class="accordion-heading">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#activaciones">
-                                        Activaciones
-                                        </a>
-                                    </div>
-                                    <div id="activaciones" class="accordion-body collapse">
-                                      <div class="accordion-inner">
-                                        <ul class="nav nav-list">
-                                             <li><a href="<?php echo site_url()."dashboard/activaciones";?>"><i class="icon-large icon-th"></i>Activaciones</a></li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                            </div>
-                        <div class="accordion-group">
-                                    <div class="accordion-heading">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#cobros">
-                                        Cobros
-                                        </a>
-                                    </div>
-                                    <div id="cobros" class="accordion-body collapse">
-                                      <div class="accordion-inner">
-                                        <ul class="nav nav-list">
-                                             <li><a href="<?php echo site_url()."dashboard/cobros";?>"><i class="icon-large icon-th"></i>Cobros</a></li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                            </div>
-                        
-    
-                            <div class="accordion-group">
-                                    <div class="accordion-heading">
-                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#recargas">
-                                        Recargas
-                                        </a>
-                                    </div>
-                                    <div id="recargas" class="accordion-body collapse">
-                                      <div class="accordion-inner">
-                                        <ul class="nav nav-list">
-                                             <li><a href="<?php echo site_url()."dashboard/recargas";?>"><i class="icon-large icon-th"></i>Recargas de Saldo</a></li>
-                                        </ul>
-                                        </div>
-                                    </div>
-                            </div>
                             <?php } ?>
-                            
                         
                             <div class="accordion-group">
                                 <div class="accordion-heading">
