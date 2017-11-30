@@ -1,7 +1,7 @@
 <nav class="eltdf-mobile-nav">
     <div class="eltdf-grid">
         <ul id="menu-mobile-menu" class="">
-            <li id="mobile-menu-item-2942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub">
+            <li id="mobile-menu-item-2942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children  has_sub active-mobile">
                 <a href="<?php echo site_url().'home';?>" class=" eltdf-mobile-no-link"><span>Home</span></a>
                         <span class="mobile_arrow"><i class="eltdf-sub-arrow fa fa-angle-right"></i><i class="fa fa-angle-down"></i></span>
             </li>

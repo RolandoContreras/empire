@@ -5,70 +5,8 @@
 <!--END HEAD-->
 
 <body class="page-template page-template-full-width page-template-full-width-php page page-id-1482 eltd-core-1.0 eltd-lms-1.0 eltdf-social-login-1.0 tribe-no-js esmarts-ver-1.0 eltdf-grid-1300 eltdf-sticky-header-on-scroll-down-up eltdf-dropdown-animate-height eltdf-header-standard eltdf-menu-area-shadow-disable eltdf-menu-area-in-grid-shadow-disable eltdf-menu-area-border-disable eltdf-menu-area-in-grid-border-disable eltdf-logo-area-border-disable eltdf-logo-area-in-grid-border-disable eltdf-side-menu-slide-from-right eltdf-woocommerce-columns-3 eltdf-woo-normal-space eltdf-woo-pl-info-below-image eltdf-woo-single-thumb-below-image eltdf-woo-single-has-pretty-photo eltdf-default-mobile-header eltdf-sticky-up-mobile-header eltdf-header-top-enabled wpb-js-composer js-comp-ver-5.4.4 vc_responsive eltdf-search-covers-header" ng-viewport=""itemscope itemtype="http://schema.org/WebPage">
-    <!--SECTION RIGTH ABOUT-->
-  <section class="eltdf-side-menu">
-    <div class="eltdf-close-side-menu-holder">
-      <a class="eltdf-close-side-menu" href="#" target="_self"> <i class="fa fa-times" aria-hidden="true"></i> </a>
-    </div>
-    <div id="media_image-4" class="widget eltdf-sidearea widget_media_image"> <a href="<?php echo site_url()?>"> <img class="image" src="<?php echo site_url().'static/page_front/images/logo/logo.jpg';?>" alt="logo" width="385" height="103" /></a>      </div>
-    <div class="widget eltdf-custom-font-widget">
-      <p class="eltdf-custom-font-holder eltdf-cf-1202" style="font-family: Crimson Text;font-size: 22px;line-height: 28px;margin: -29px 16% 53px 0px" data-item-class="eltdf-cf-1202">
-      Lorem ipsum dolor sit amet, conse ctetur adip elit, pellentesque turpis.</p>
-    </div>
-    <div class="widget eltdf-separator-widget">
-      <div class="eltdf-separator-holder clearfix eltdf-separator-center eltdf-separator-normal">
-        <div class="eltdf-separator" style="border-style: solid;margin-top: 0px;margin-bottom: 13px"></div>
-      </div>
-    </div><a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 2px 5px 0;"
-      href="#" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i> </a><a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover"
-      data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 2px 18px 0px 18px;" href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i> </a>
-    <a
-      class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#42495b" style="color: #04d2c8;;font-size: 20px;margin: 0px 0px 0px 2px;"
-      href="#" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i> </a>
-      <div id="text-9" class="widget eltdf-sidearea widget_text">
-        <div class="textwidget">
-          <h2 style="display: none;">Empire</h2>
-        </div>
-      </div>
-  </section>
-    <!--END SECTION RIGTH ABOUT-->
   <div class="eltdf-wrapper">
     <div class="eltdf-wrapper-inner">
-      <div class="eltdf-top-bar">
-        <div class="eltdf-grid">
-          <div class="eltdf-vertical-align-containers">
-            <div class="eltdf-position-left">
-              <div class="eltdf-position-left-inner">
-                <div id="text-3" class="widget widget_text eltdf-top-bar-widget">
-                  <div class="textwidget">
-                    <p>
-                      <?php echo replace_vocales_voculeshtml("Teléfono: ");?>
-                        <a href="tel:+443003030266"> +51 300 303 0266</a>&nbsp; &nbsp; &nbsp;
-                      <?php echo replace_vocales_voculeshtml("Síguenos: ");?>
-                    </p>
-                  </div>
-                </div>
-                  <!--SOCIAL LINK-->
-                  <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 1px 0px 0px 4px;" href="http://www.facebook.com" target="_blank"> 
-                    <i class="fa fa-facebook-square" aria-hidden="true"></i> </a>
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 7px 0 7px;" href="http://www.twitter.com" target="_blank"> 
-                    <i class="fa fa-youtube" aria-hidden="true"></i> </a>
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 8px 0px;" href="http://www.instagram.com" target="_blank"> 
-                    <i class="fa fa-instagram" aria-hidden="true"></i> </a>
-                <!--END SOCIAL LINK-->
-              </div>
-            </div>
-            <!--POSITION RIGHT-->
-            <div class="eltdf-position-right">
-              <div class="eltdf-position-right-inner">
-                <div class="widget eltdf-login-register-widget eltdf-user-not-logged-in"> <a href="#" class="eltdf-modal-opener" style="position: relative;display: inline-block;vertical-align: top;overflow: hidden;padding: 0 20px;min-width: 86px;text-align: center;line-height: 29px;color: #fff;background-color: #04d2c8;border-radius: 30px;z-index: 1;"
-                    data-modal="login"><i class="fa fa-user" aria-hidden="true"></i> Login</a> <a href="#" class="eltdf-modal-opener" style="position: relative;display: inline-block;vertical-align: top;overflow: hidden;padding: 0 20px;min-width: 86px;text-align: center;line-height: 29px;color: #fff;background-color: #04d2c8;border-radius: 30px;z-index: 1;"
-                    data-modal="register"><i class="fa fa-registered" aria-hidden="true"></i> Register</a> </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <!--//START HEADER-->
       <?php $this->load->view("header");?>
       <!--//END HEADER-->
@@ -84,19 +22,23 @@
       <!--END ARROW TOP-->
                       <div class="eltdf-content">
                         <div class="eltdf-content-inner">
-                          <div class="eltdf-title-holder eltdf-centered-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive"
-                               style="height: 537px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex.jpg';?>);"
-                            data-height="537">
-                            <div class="eltdf-title-image"><img itemprop="image" src="<?php echo site_url().'static/page_front/images/forex.jpg';?>"
-                                alt="about"/></div>
-                            <div class="eltdf-title-wrapper">
-                              <div class="eltdf-title-inner">
-                                <div class="eltdf-grid">
-                                  <h1 class="eltdf-page-title entry-title" style="color: #ffffff">Acerca</h1>
-                                </div>
-                              </div>
+                          <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive" style="height: 240px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex.jpg';?>);" data-height="240">
+                            <div class="eltdf-title-image">
+                                <img itemprop="image" src="<?php echo site_url().'static/page_front/images/forex.jpg';?>" alt="forex" />
                             </div>
-                          </div>
+                            <div class="eltdf-title-wrapper">
+                                <div class="eltdf-title-inner">
+                                    <div class="eltdf-grid">
+                                        <div class="eltdf-title-info">
+                                            <h2 class="eltdf-page-title entry-title">Acerca</h2>
+                                        </div>
+                                        <div class="eltdf-breadcrumbs-info">
+                                            <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">Blog Standard</span></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                           <div class="eltdf-full-width">
                             <div class="eltdf-full-width-inner">
                               <div class="eltdf-grid-row">
@@ -608,6 +550,7 @@
                       </div>
                       <!-- close div.eltdf-wrapper-inner -->
                       </div>
+                    </div>
                       <!-- close div.eltdf-wrapper -->
                       <script>
                         ( function ( body ) {'use strict';body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );} )( document.body );

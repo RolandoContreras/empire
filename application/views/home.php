@@ -7,42 +7,6 @@
 <body class="home page-template page-template-full-width page-template-full-width-php page page-id-14 eltd-core-1.0 eltd-lms-1.0 eltdf-social-login-1.0 tribe-no-js esmarts-ver-1.0 eltdf-grid-1300 eltdf-content-is-behind-header eltdf-sticky-header-on-scroll-down-up eltdf-dropdown-animate-height eltdf-header-standard eltdf-menu-area-shadow-disable eltdf-menu-area-in-grid-shadow-disable eltdf-menu-area-border-disable eltdf-menu-area-in-grid-border-disable eltdf-logo-area-border-disable eltdf-logo-area-in-grid-border-disable eltdf-side-menu-slide-from-right eltdf-woocommerce-columns-3 eltdf-woo-normal-space eltdf-woo-pl-info-below-image eltdf-woo-single-thumb-below-image eltdf-woo-single-has-pretty-photo eltdf-default-mobile-header eltdf-sticky-up-mobile-header eltdf-header-top-enabled wpb-js-composer js-comp-ver-5.4.4 vc_responsive eltdf-search-covers-header" itemscope itemtype="http://schema.org/WebPage">
   <div class="eltdf-wrapper">
     <div class="eltdf-wrapper-inner">
-      <div class="eltdf-top-bar">
-        <div class="eltdf-grid">
-          <div class="eltdf-vertical-align-containers">
-            <!--POSITION LEFT-->
-            <div class="eltdf-position-left">
-              <div class="eltdf-position-left-inner">
-                <div id="text-3" class="widget widget_text eltdf-top-bar-widget">
-                  <div class="textwidget">
-                    <p>
-                      <?php echo replace_vocales_voculeshtml("Teléfono: ");?>
-                        <a href="tel:+443003030266"> +51 300 303 0266</a>&nbsp; &nbsp; &nbsp;
-                      <?php echo replace_vocales_voculeshtml("Síguenos: ");?>
-                    </p>
-                  </div>
-                </div>
-                  <!--SOCIAL LINK-->
-                  <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 1px 0px 0px 4px;" href="http://www.facebook.com" target="_blank"> 
-                    <i class="fa fa-facebook-square" aria-hidden="true"></i> </a>
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 7px 0 7px;" href="http://www.twitter.com" target="_blank"> 
-                    <i class="fa fa-youtube" aria-hidden="true"></i> </a>
-                <a class="eltdf-social-icon-widget-holder eltdf-icon-has-hover" data-hover-color="#04d2c8" style="color: #606264;;font-size: 12px;margin: 2px 8px 0px;" href="http://www.instagram.com" target="_blank"> 
-                    <i class="fa fa-instagram" aria-hidden="true"></i> </a>
-                <!--END SOCIAL LINK-->
-              </div>
-            </div>
-            <!--POSITION RIGHT-->
-            <div class="eltdf-position-right">
-              <div class="eltdf-position-right-inner">
-                <div class="widget eltdf-login-register-widget eltdf-user-not-logged-in"> <a href="#" class="eltdf-modal-opener" style="position: relative;display: inline-block;vertical-align: top;overflow: hidden;padding: 0 20px;min-width: 86px;text-align: center;line-height: 29px;color: #fff;background-color: #04d2c8;border-radius: 30px;z-index: 1;"
-                    data-modal="login"><i class="fa fa-user" aria-hidden="true"></i> Login</a> <a href="#" class="eltdf-modal-opener" style="position: relative;display: inline-block;vertical-align: top;overflow: hidden;padding: 0 20px;min-width: 86px;text-align: center;line-height: 29px;color: #fff;background-color: #04d2c8;border-radius: 30px;z-index: 1;"
-                    data-modal="register"><i class="fa fa-registered" aria-hidden="true"></i> Registro</a> </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
       <!--//START HEADER-->
       <?php $this->load->view("header");?>
       <!--//END HEADER-->
