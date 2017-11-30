@@ -9,7 +9,7 @@
 			
 	<!-- PAGE TITLE -->
 	<meta charset="UTF-8">
-    <title>Empire Forex</title>
+    <title>The Empire Forex</title>
 		
 	<link rel="alternate" type="application/rss+xml" title="MiEvent &raquo; Feed" href="http://multia.in/theme/wordpress/mievent/xmas-quick/?feed=rss2" />
 <link rel="alternate" type="application/rss+xml" title="MiEvent &raquo; Comments Feed" href="http://multia.in/theme/wordpress/mievent/xmas-quick/?feed=comments-rss2" />
@@ -54,18 +54,18 @@
 	<div id="home_slider"><script type="text/javascript">window.globalDateVar = "2017/12/15 00:00";</script>
             <section class="autoheight home_slider">
                 <section class="inner-slider">
-                    <div class="image-bg" style="background-image:url('http://multia.in/theme/wordpress/mievent/xmas-quick/wp-content/uploads/2015/01/particles-1.jpg');">
+                    <div class="image-bg" style="background-image:url('<?php echo site_url().'static/page_front/images/temp01.jpg';?>');">
                          
                    </div>
                     <div class="col-lg-12 coming-landing-text-pos image_content align-center">
                         <a class="coming-brand" href="#">
-                            <img src="<?php echo 'static/page_front/images/logo/logo_empire_black.png'?>" alt="logo" width="300px"/>
+                            <img src="<?php echo 'static/page_front/images/logo/logo_empire.png'?>" alt="logo" width="300px"/>
                         </a>
                         <h1 class="wow animated fadeInDown" data-wow-duration="1s" data-wow-delay="1s" style="color:#FFFFFF">YA VIENE LA REVOLUCIÓN</h1>
                         <hr id="title_hr"/><div id="defaultCountdown" class="clearfix"></div>
                         <div class="notify-by-email">
                             <div class="row form-notify">
-                                <h2 class="notify">EMPIRE - FOREX</h2>
+                                <h2 class="notify">THE EMPIRE - FOREX</h2>
                             </div>
                                 
                         </div>
