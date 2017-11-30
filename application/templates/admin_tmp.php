@@ -95,10 +95,7 @@
                                         <ul class="nav nav-list">
                                             <li><a href="<?php echo site_url()."dashboard/clientes";?>"><i class="icon-large icon-th"></i>Clientes</a></li>
                                             <li><a href="<?php echo site_url()."dashboard/comentarios";?>"><i class="icon-large icon-th"></i>Comentarios</a></li>
-                                            <li><a href="<?php echo site_url()."dashboard/mesaje_global";?>"><i class="icon-large icon-th"></i>Mensajes</a></li>
-                                            <?php if($_SESSION['usercms']['privilage'] == 3){ ?>
                                             <li><a href="<?php echo site_url()."dashboard/usuarios";?>"><i class="icon-large icon-th"></i>Usuarios</a></li>
-                                            <?php } ?>
                                             <li><a href="<?php echo site_url()."dashboard/panel";?>"><i class="icon-large icon-th"></i>Panel</a></li>
                                         </ul>
                                         </div>
@@ -115,7 +112,27 @@
                                     <div id="post" class="accordion-body collapse">
                                       <div class="accordion-inner">
                                         <ul class="nav nav-list">
-                                             <li><a href="<?php echo site_url()."dashboard/activaciones";?>"><i class="icon-large icon-th"></i>Publicaciones</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/blog";?>"><i class="icon-large icon-th"></i>Blog</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/report_blog";?>"><i class="icon-large icon-th"></i>Reportes</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/academy_blog";?>"><i class="icon-large icon-th"></i>Academia</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/recurses";?>"><i class="icon-large icon-th"></i>Recursos</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/webinar";?>"><i class="icon-large icon-th"></i>Webinar</a></li>
+                                        </ul>
+                                        </div>
+                                    </div>
+                            </div>
+                        <div class="accordion-group">
+                                    <div class="accordion-heading">
+                                        <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordionSB" href="#correo">
+                                        Correos Masivos
+                                        </a>
+                                    </div>
+                                    <div id="correo" class="accordion-body collapse">
+                                      <div class="accordion-inner">
+                                        <ul class="nav nav-list">
+                                             <li><a href="<?php echo site_url()."dashboard/blog";?>"><i class="icon-large icon-th"></i>Cursos Online</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/report_blog";?>"><i class="icon-large icon-th"></i>Cursos Presencial</a></li>
+                                             <li><a href="<?php echo site_url()."dashboard/academy_blog";?>"><i class="icon-large icon-th"></i>Masivos</a></li>
                                         </ul>
                                         </div>
                                     </div>
@@ -133,13 +150,7 @@
                                                 <a href="<?php echo site_url()."dashboard/reportes/asociados";?>"><i class="icon-large icon-th"></i>Asociados</a>
                                             </li>
                                             <li>                                        
-                                                <a href="<?php echo site_url()."dashboard/reportes/cuentas";?>"><i class="icon-large icon-th"></i>Cuentas</a>
-                                            </li>
-                                            <li>                                        
-                                                <a href="<?php echo site_url()."dashboard/reportes/pagos";?>"><i class="icon-large icon-th"></i>Pagos</a>
-                                            </li>
-                                            <li>                                        
-                                                <a><i class="icon-large icon-th"></i>Proyecciones</a>
+                                                <a href="<?php echo site_url()."dashboard/reportes/ingresos";?>"><i class="icon-large icon-th"></i>Ingresos</a>
                                             </li>
                                             </ul>                                     
                                     </div>

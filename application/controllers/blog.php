@@ -22,4 +22,8 @@ class Blog extends CI_Controller {
 	{
 		$this->load->view('blog');
 	}
+        public function internal()
+	{
+		$this->load->view('internal_blog');
+	}
 }

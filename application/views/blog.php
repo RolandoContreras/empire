@@ -57,12 +57,12 @@
                                                         <div class="eltdf-post-text-inner">
                                                             <h3 itemprop="name" class="entry-title eltdf-post-title"> <a itemprop="url" href="http://esmarts.elated-themes.com/learning-friendship-and-fun/" title="Learning, Friendship and Fun"> Learning, Friendship and Fun </a> </h3>
                                                             <div class="eltdf-post-info-top">
-                                                                <div itemprop="dateCreated" class="eltdf-post-info-date entry-date published updated"> <a> 20.10.2017 </a>
+                                                                <div itemprop="dateCreated" class="eltdf-post-info-date entry-date published updated"> <a><?php echo formato_fecha("2017/08/12")?></a>
                                                                 </div>
                                                             </div>
                                                             <div class="eltdf-post-text-main">
                                                                 <div class="eltdf-post-excerpt-holder">
-                                                                    <p itemprop="description" class="eltdf-post-excerpt">Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosquad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.</p>
+                                                                    <p itemprop="description" class="eltdf-post-excerpt"><?php echo corta_texto("Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, lorem quis bibendum auci elit consequat ipsutis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosquad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo.",130)?></p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -91,7 +91,7 @@
                                                 <div class="eltdf-cl-inner eltdf-outer-space clearfix">
                                                     <article class="eltdf-cl-item eltdf-item-space post-845 course type-course status-publish has-post-thumbnail hentry course-category-languages" data-name=academic-english data-date=1507593600>
                                                         <div class="eltdf-cl-item-inner">
-                                                            <div class="eltdf-cli-image"><a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/"><img width="1000" height="638" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1.jpg" class="attachment-full size-full wp-post-image" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1.jpg 1000w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-300x191.jpg 300w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-768x490.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></div>
+                                                            <div class="eltdf-cli-image"><a itemprop="url" href="#"><img width="1000" height="638" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1.jpg" class="attachment-full size-full wp-post-image" alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1.jpg 1000w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-300x191.jpg 300w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-768x490.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></div>
                                                             <div class="eltdf-cli-text-holder">
                                                                 <div class="eltdf-cli-text-inner">
                                                                     <h6 itemprop="name" class="eltdf-cli-title entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/" target="_self">Academic English</a></h6>
