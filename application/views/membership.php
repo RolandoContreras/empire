@@ -26,10 +26,10 @@
                             <div class="eltdf-title-inner">
                                 <div class="eltdf-grid">
                                     <div class="eltdf-title-info">
-                                        <h2 class="eltdf-page-title entry-title">Acerca</h2>
+                                        <h2 class="eltdf-page-title entry-title">Membresias</h2>
                                     </div>
                                     <div class="eltdf-breadcrumbs-info">
-                                        <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">Acerca</span></div>
+                                        <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">Membresias</span></div>
                                     </div>
                                 </div>
                             </div>

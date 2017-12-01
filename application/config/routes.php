@@ -43,6 +43,7 @@ $route['404_override'] = 'errors/error_404';
 
 $route['home'] = 'home';
 $route['membership'] = 'membership';
+$route['academy'] = 'academy';
 $route['login'] = 'login';
 $route['blog/([0-9]+)/([0-9a-z_-]+)'] = 'blog/internal';
 $route['plan/([0-9a-z_-]+)'] = "plan/packages";
