@@ -7,7 +7,7 @@
                   <div class="textwidget">
                     <p>
                       <?php echo replace_vocales_voculeshtml("Teléfono: ");?>
-                        <a href="tel:+443003030266"> +51 300 303 0266</a>&nbsp; &nbsp; &nbsp;
+                        <a href="tel:+51 01 2479387"> +51 01 2479387</a>&nbsp; &nbsp; &nbsp;
                       <?php echo replace_vocales_voculeshtml("Síguenos: ");?>
                     </p>
                   </div>
