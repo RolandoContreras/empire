@@ -69,21 +69,22 @@
                       data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-basealign="slide" data-responsive_offset="off"
                       data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":450,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+950","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                       data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 450px; line-height: 450px; font-weight: 400; color: rgba(255,255,255,0.25); letter-spacing: 0px;font-family:Nothing You Could Do;text-transform:lowercase;">World </div>
+                      data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 450px; line-height: 450px; font-weight: 400; color: rgba(255,255,255,0.25); letter-spacing: 0px;font-family:Nothing You Could Do;text-transform:lowercase;">The Empire</div>
                     <!-- LAYER NR. 2 -->
+                    
                     <div class="tp-caption tp-static-layer" id="slider-1-layer-16" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                       data-y="['middle','middle','middle','top']" data-voffset="['-18','-85','-196','150']" data-fontsize="['90','80','80','50']" data-lineheight="['100','100','90','60']"
                       data-width="['none','none','601','300']" data-height="none" data-whitespace="['nowrap','nowrap','normal','normal']" data-type="text"
                       data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":400,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+1000","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                       data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 90px; line-height: 100px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;">We Can Teach You! </div>
+                      data-paddingleft="[0,0,0,0]" style="z-index: 6; white-space: nowrap; font-size: 90px; line-height: 100px; font-weight: 700; color: #ffffff; letter-spacing: 0px;font-family:Montserrat;"><?php echo replace_vocales_voculeshtml("Nosotros te enseñamos")?></div>
                     <!-- LAYER NR. 3 -->
                     <div class="tp-caption tp-static-layer" id="slider-1-layer-17" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                       data-y="['middle','middle','middle','top']" data-voffset="['68','-14','-80','284']" data-fontsize="['24','24','22','22']" data-width="['none','none','none','301']"
                       data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off"
                       data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":500,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+900","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                       data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 30px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">Create an all-encompassing website for your school with ease. </div>
+                      data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 24px; line-height: 30px; font-weight: 400; color: #ffffff; letter-spacing: 0px;"><?php echo replace_vocales_voculeshtml("Aprende a operar en el mundo de forex con THE EMPIRE.")?></div>
                     <!-- LAYER NR. 4 -->
                     <div class="tp-caption tp-static-layer" id="slider-1-layer-18" data-x="['center','center','center','center']" data-hoffset="['-113','-109','-110','0']"
                       data-y="['middle','middle','middle','top']" data-voffset="['149','59','-8','377']" data-width="['200','200','200','300']" data-height="none"
@@ -92,8 +93,8 @@
                       data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                       data-paddingleft="[0,0,0,0]" style="z-index: 8; min-width: 200px; max-width: 200px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
                       <a itemprop="url" href="#" target="_blank" style="padding: 10px 69px" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation">
-                      <span class="eltdf-btn-text"><?php echo replace_vocales_voculeshtml("Regístrate");
- ?>!</span> <span class="eltdf-btn-hover-item"></span> </a>
+                        <span class="eltdf-btn-text"><?php echo replace_vocales_voculeshtml("REGÍSTRATE");?></span> <span class="eltdf-btn-hover-item"></span> 
+                      </a>
                     </div>
                     <!-- LAYER NR. 5 -->
                     <div class="tp-caption tp-static-layer" id="slider-1-layer-19" data-x="['center','center','center','center']" data-hoffset="['110','110','110','0']"
@@ -102,85 +103,8 @@
                       data-endslide="2" data-frames='[{"delay":600,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+800","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
                       data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
                       data-paddingleft="[0,0,0,0]" style="z-index: 9; min-width: 200px; max-width: 200px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;">
-                      <a itemprop="url" href="#" target="_blank" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-light eltdf-hover-animation">
-                      <span class="eltdf-btn-text"><?php echo replace_vocales_voculeshtml("VER MÁS");
- ?></span> <span class="eltdf-btn-hover-item"></span> </a>
-                    </div>
-                    <!-- LAYER NR. 6 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-20" data-x="['center','center','center','center']" data-hoffset="['-386','-386','-154','0']"
-                      data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','687']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-type="text" data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"","delay":""}]' data-basealign="slide"
-                      data-responsive_offset="off" data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 10; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #4582ff">
-                        <div class="eltdf-bs-icon"><img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-1.png" class="attachment-full size-full"
-                            alt="a" /></div><span class="eltdf-banner-title">BASICO</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
-                    </div>
-                    <!-- LAYER NR. 7 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-22" data-x="['center','center','center','center']" data-hoffset="['-232','-232','0','0']"
-                      data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','847']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 11; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #04d2c8">
-                        <div class="eltdf-bs-icon"><img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-6.png" class="attachment-full size-full"
-                            alt="a" /></div><span class="eltdf-banner-title">INTERMEDIO</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
-                    </div>
-                    <!-- LAYER NR. 8 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-23" data-x="['center','center','center','center']" data-hoffset="['-78','-78','154','0']"
-                      data-y="['bottom','bottom','bottom','top']" data-voffset="['40','40','200','1007']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 12; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #454080">
-                        <div class="eltdf-bs-icon"><img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-3.png" class="attachment-full size-full"
-                            alt="" /></div><span class="eltdf-banner-title">AVANZANDO</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
-                    </div>
-                    <!-- LAYER NR. 9 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-24" data-x="['center','center','center','center']" data-hoffset="['76','76','-154','-434']"
-                      data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','25']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-visibility="['on','on','on','off']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-                      data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 13; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #ff9900">
-                        <div class="eltdf-bs-icon"><img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-2.png" class="attachment-full size-full"
-                            alt="a" /></div><span class="eltdf-banner-title">SEÑALES</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
-                    </div>
-                    <!-- LAYER NR. 10 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-25" data-x="['center','center','center','center']" data-hoffset="['230','230','0','441']"
-                      data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','245']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-visibility="['on','on','on','off']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-                      data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 14; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #42495b">
-                        <div class="eltdf-bs-icon"><img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-1.png" class="attachment-full size-full"
-                            alt="a" /></div><span class="eltdf-banner-title">ESTRATEGIAS</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
-                    </div>
-                    <!-- LAYER NR. 11 -->
-                    <div class="tp-caption tp-static-layer" id="slider-1-layer-26" data-x="['center','center','center','center']" data-hoffset="['384','384','154','-490']"
-                      data-y="['bottom','bottom','bottom','bottom']" data-voffset="['40','40','40','260']" data-width="127" data-height="none" data-whitespace="normal"
-                      data-visibility="['on','on','on','off']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off"
-                      data-startslide="0" data-endslide="2" data-frames='[{"delay":700,"speed":600,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power4.easeOut"},{"delay":"+700","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                      data-textAlign="['center','center','center','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]"
-                      data-paddingleft="[0,0,0,0]" style="z-index: 15; min-width: 127px; max-width: 127px; white-space: normal; font-size: 20px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-                      <div class="eltdf-banner-simple-holder " style="background-color: #04d2c8">
-                        <div class="eltdf-bs-icon"> <img width="75" height="68" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-4.png" class="attachment-full size-full"
-                            alt="a" /> </div> <span class="eltdf-banner-title">B-LEARN</span>
-                        <a itemprop="url" class="eltdf-bs-link" href="#" target="_self"></a>
-                      </div>
+                        <a itemprop="url" href="<?php echo site_url().'about';?>" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-light eltdf-hover-animation">
+                      <span class="eltdf-btn-text"><?php echo replace_vocales_voculeshtml("VER MÁS");?></span> <span class="eltdf-btn-hover-item"></span> </a>
                     </div>
                   </div>
                   <script>
@@ -223,8 +147,8 @@
                           revapi1=tpj("#rev_slider_1_1").show().revolution( {
                               sliderType:"standard", jsFileLocation:"//esmarts.elated-themes.com/wp-content/plugins/revslider/public/assets/js/", sliderLayout:"auto", dottedOverlay:"none", delay:3000, navigation: {
                                   keyboardNavigation:"off", keyboard_direction:"horizontal", mouseScrollNavigation:"off", mouseScrollReverse:"default", onHoverStop:"off", arrows: {
-                                      style:"elated-white", enable:true, hide_onmobile:true, hide_under:1200, hide_onleave:false, tmp:'<span class="eltdf-nav-arrow"></span>', left: {
-                                          h_align:"left", v_align:"center", h_offset:15, v_offset:67
+                                      style:"elated-white", enable:true, hide_onmobile:true, hide_under:1200, hide_onleave:false, left: {
+                                          h_align:"left", v_align:"center", h_offset:15, v_offset:67 , tmp:'<i class="fa fa-arrows-h fa-3x" aria-hidden="true"></i>'
                                       }
                                       , right: {
                                           h_align:"right", v_align:"center", h_offset:15, v_offset:67
@@ -769,7 +693,7 @@
                                   <p class="eltdf-testimonial-text">Hendrerit placerat odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. Nulla
                                     ante eros, venenatis vel malesuada sit amet, luctus id lectus. Donec lacinia orci.</p>
                                   <h4 class="eltdf-testimonial-author">Cecily Brown</h4>
-                                  <h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+                                  <h6 class="eltdf-testimonials-author-job">Lima - Perú</h6>
                                 </div>
                               </div>
                               <div class="eltdf-testimonial-content" id="eltdf-testimonials-210">
@@ -781,7 +705,7 @@
                                   <p class="eltdf-testimonial-text">Donec lacinia orci augue, at vehicula turpis efficitur eu. Fusce fringilla arcu ut neque dapibus, hendrerit placerat
                                     odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. </p>
                                   <h4 class="eltdf-testimonial-author">John Evans</h4>
-                                  <h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+                                  <h6 class="eltdf-testimonials-author-job">Lima - Perú</h6>
                                 </div>
                               </div>
                               <div class="eltdf-testimonial-content" id="eltdf-testimonials-200">
@@ -792,104 +716,11 @@
                                   <p class="eltdf-testimonial-text">Hendrerit placerat odio aliquam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec gravida nulla. Nulla
                                     ante eros, venenatis vel malesuada sit amet, luctus id lectus. Donec lacinia orci.</p>
                                   <h4 class="eltdf-testimonial-author">Annie Page</h4>
-                                  <h6 class="eltdf-testimonials-author-job">STUDENT</h6>
+                                  <h6 class="eltdf-testimonials-author-job">Lima - Perú</h6>
                                 </div>
                               </div>
                             </div>
                           </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="eltdf-row-grid-section-wrapper " style="background-color:#fafafa">
-        <div class="eltdf-row-grid-section">
-          <div class="vc_row wpb_row vc_row-fluid vc_custom_1507044271135">
-            <div class="wpb_column vc_column_container vc_col-sm-12">
-              <div class="vc_column-inner ">
-                <div class="wpb_wrapper">
-                  <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
-                    <div class="eltdf-st-inner"><span class="eltdf-st-watermark">profit</span><span class="eltdf-st-tagline">Advising Success</span>
-                      <h2 class="eltdf-st-title">Pricing Plans</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim.</span></div>
-                  </div>
-                  <div class="vc_empty_space" style="height: 93px"><span class="vc_empty_space_inner"></span></div>
-                  <div class="eltdf-pricing-tables clearfix eltdf-three-columns eltdf-normal-space">
-                    <div class="eltdf-pt-wrapper eltdf-outer-space">
-                      <div class="eltdf-price-table eltdf-item-space eltdf-pt-skin-orange">
-                        <div class="eltdf-pt-inner">
-                          <ul>
-                            <li class="eltdf-pt-star-holder"><span class="eltdf-pt-star icon_star"></span></li>
-                            <li class="eltdf-pt-title-holder">
-                              <h4 class="eltdf-pt-title">Basic Plan</h4>
-                            </li>
-                            <li class="eltdf-pt-prices"><span class="eltdf-pt-price">$20</span><span class="eltdf-pt-mark">per month</span></li>
-                            <li class="eltdf-pt-content">
-                              <ul>
-                                <li>One Online Course</li>
-                                <li>One E-Book</li>
-                                <li>1 Hour of Mentorship</li>
-                                <li>Guided Progress</li>
-                              </ul>
-                            </li>
-                            <li class="eltdf-pt-button">
-                              <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation">
-                              <span class="eltdf-btn-text">Purchase</span> <span class="eltdf-btn-hover-item"></span> </a>
-                            </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="eltdf-price-table eltdf-item-space eltdf-pt-skin-green">
-                        <div class="eltdf-pt-inner">
-                          <ul>
-                            <li class="eltdf-pt-star-holder"><span class="eltdf-pt-star icon_star"></span><span class="eltdf-pt-star icon_star"></span><span class="eltdf-pt-star icon_star"></span></li>
-                            <li
-                              class="eltdf-pt-title-holder">
-                              <h4 class="eltdf-pt-title">Professional</h4>
-                              </li>
-                              <li class="eltdf-pt-prices"><span class="eltdf-pt-price">$50</span><span class="eltdf-pt-mark">per month</span></li>
-                              <li class="eltdf-pt-content">
-                                <ul>
-                                  <li>Five Online Courses</li>
-                                  <li>Unlimited E-Book</li>
-                                  <li>10 Hours of Mentorship</li>
-                                  <li>Guided Progress</li>
-                                </ul>
-                              </li>
-                              <li class="eltdf-pt-button">
-                                <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation">
-                                <span class="eltdf-btn-text">Purchase</span> <span class="eltdf-btn-hover-item"></span> </a>
-                              </li>
-                          </ul>
-                        </div>
-                      </div>
-                      <div class="eltdf-price-table eltdf-item-space eltdf-pt-skin-blue">
-                        <div class="eltdf-pt-inner">
-                          <ul>
-                            <li class="eltdf-pt-star-holder"><span class="eltdf-pt-star icon_star"></span><span class="eltdf-pt-star icon_star"></span><span class="eltdf-pt-star icon_star"></span>
-                              <span
-                                class="eltdf-pt-star icon_star"></span><span class="eltdf-pt-star icon_star"></span></li>
-                            <li class="eltdf-pt-title-holder">
-                              <h4 class="eltdf-pt-title">Exclusive</h4>
-                            </li>
-                            <li class="eltdf-pt-prices"><span class="eltdf-pt-price">$100</span><span class="eltdf-pt-mark">per month</span></li>
-                            <li class="eltdf-pt-content">
-                              <ul>
-                                <li>Unlimited Online Courses</li>
-                                <li>Unlimited E-Books</li>
-                                <li>50 Hours of Mentorship</li>
-                                <li>Guided Progress</li>
-                              </ul>
-                            </li>
-                            <li class="eltdf-pt-button">
-                              <a itemprop="url" href="#" target="_self" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid eltdf-btn-default eltdf-hover-animation">
-                              <span class="eltdf-btn-text">Purchase</span> <span class="eltdf-btn-hover-item"></span> </a>
-                            </li>
-                          </ul>
                         </div>
                       </div>
                     </div>

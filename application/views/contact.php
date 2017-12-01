@@ -22,10 +22,7 @@
       </a>
   <div class="eltdf-content">
     <div class="eltdf-content-inner">
-      <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive" style="height: 240px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex.jpg';?>);" data-height="240">
-        <div class="eltdf-title-image">
-            <img itemprop="image" src="<?php echo site_url().'static/page_front/images/forex.jpg';?>" alt="forex" />
-        </div>
+      <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive" style="height: 240px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex_365.jpg';?>);" data-height="240">
         <div class="eltdf-title-wrapper">
             <div class="eltdf-title-inner">
                 <div class="eltdf-grid">

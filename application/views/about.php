@@ -22,10 +22,7 @@
       <!--END ARROW TOP-->
                       <div class="eltdf-content">
                         <div class="eltdf-content-inner">
-                          <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive" style="height: 240px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex.jpg';?>);" data-height="240">
-                            <div class="eltdf-title-image">
-                                <img itemprop="image" src="<?php echo site_url().'static/page_front/images/forex.jpg';?>" alt="forex" />
-                            </div>
+                          <div class="eltdf-title-holder eltdf-standard-with-breadcrumbs-type eltdf-preload-background eltdf-has-bg-image eltdf-bg-parallax eltdf-disable-responsive" style="height: 240px;background-color: #4582ff;background-image:url(<?php echo site_url().'static/page_front/images/forex_365.jpg';?>);" data-height="240">
                             <div class="eltdf-title-wrapper">
                                 <div class="eltdf-title-inner">
                                     <div class="eltdf-grid">
@@ -33,7 +30,7 @@
                                             <h2 class="eltdf-page-title entry-title">Acerca</h2>
                                         </div>
                                         <div class="eltdf-breadcrumbs-info">
-                                            <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">Blog Standard</span></div>
+                                            <div itemprop="breadcrumb" class="eltdf-breadcrumbs "><a itemprop="url" href="<?php echo site_url().'home';?>">Inicio</a><span class="eltdf-delimiter">&nbsp; / &nbsp;</span><span class="eltdf-current">Acerca</span></div>
                                         </div>
                                     </div>
                                 </div>
@@ -51,81 +48,11 @@
                                             <div class="wpb_wrapper">
                                               <div class="eltdf-section-title-holder eltdf-st-has-watermark"
                                                 style="padding: 0 19%;text-align: center">
-                                                  <div class="eltdf-st-inner"><span class="eltdf-st-watermark">Aprender</span><span class="eltdf-st-tagline"><?php echo replace_vocales_voculeshtml("Éxito Garantizado");?></span>
+                                                  <div class="eltdf-st-inner"><span class="eltdf-st-watermark">Nosotros</span><span class="eltdf-st-tagline"></span>
                                                   <h2
-                                                    class="eltdf-st-title">Nuestro Servicios</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim. </span></div>
+                                                      class="eltdf-st-title">Acerca de Nosotros</h2><span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("Creada con el compromiso de expandir de una forma profesional y acertada la cultura del trading en Forex, CFD's y ETF's a toda la comunidad hispanohablante. Siendo la Editorial y Academia de más rápido y sólido crecimiento por los resultados en sus clientes.")?></span></div>
                                               </div>
-                                              <div class="vc_empty_space" style="height: 93px"><span class="vc_empty_space_inner"></span></div>
-                                              <div class="eltdf-elements-holder eltdf-three-columns eltdf-responsive-mode-768 ">
-                                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-6312"
-                                                  data-1280-1600="8px 75px 0px" data-1024-1280="8px 50px 0px"
-                                                  data-768-1024="8px 0px 0px" data-680-768="0px 50px" data-680="0px">
-                                                  <div class="eltdf-eh-item-inner">
-                                                    <div class="eltdf-eh-item-content eltdf-eh-custom-6312"
-                                                      style="padding: 8px 75px 0">
-                                                      <div class="eltdf-iwt clearfix eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                        <div class="eltdf-iwt-icon">
-                                                          <a itemprop="url" href="#" target="_self"><img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-7.png"
-                                                              class="attachment-full size-full" alt="a" /></a>
-                                                        </div>
-                                                        <div class="eltdf-iwt-content" style="padding-top: 0px">
-                                                          <h4 class="eltdf-iwt-title" style="margin-top: 3px">
-                                                            <a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Notification &amp; Emails</span></a>
-                                                          </h4>
-                                                          <p class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing
-                                                            elit. Phasellus vehic sagittis euismod. </p>
-                                                        </div>
-                                                      </div>
-                                                      <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-8085"
-                                                  data-1280-1600="1px 75px 0px" data-1024-1280="1px 50px 0px"
-                                                  data-768-1024="0px" data-680-768="0px 50px" data-680="0px">
-                                                  <div class="eltdf-eh-item-inner">
-                                                    <div class="eltdf-eh-item-content eltdf-eh-custom-8085"
-                                                      style="padding: 0px 75px">
-                                                      <div class="eltdf-iwt clearfix eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                        <div class="eltdf-iwt-icon">
-                                                          <a itemprop="url" href="#" target="_self"><img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-8.png"
-                                                              class="attachment-full size-full" alt="a" /></a>
-                                                        </div>
-                                                        <div class="eltdf-iwt-content" style="padding-top: 0px">
-                                                          <h4 class="eltdf-iwt-title" style="margin-top: 10px">
-                                                            <a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Certification</span></a>
-                                                          </h4>
-                                                          <p class="eltdf-iwt-text" style="margin-top: 11px">Phasellus vehic sagittis euismod. Lorem ipsum
-                                                            dolor sit ametcon, sectetur adipiscing elit.
-                                                            </p>
-                                                        </div>
-                                                      </div>
-                                                      <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-7503"
-                                                  data-1280-1600="1px 75px 0px" data-1024-1280="1px 50px 0px"
-                                                  data-768-1024="1px 0px 0px" data-680-768="0px 50px" data-680="0px">
-                                                  <div class="eltdf-eh-item-inner">
-                                                    <div class="eltdf-eh-item-content eltdf-eh-custom-7503"
-                                                      style="padding: 0px 75px 0px">
-                                                      <div class="eltdf-iwt clearfix eltdf-iwt-icon-top eltdf-iwt-icon-medium">
-                                                        <div class="eltdf-iwt-icon">
-                                                          <a itemprop="url" href="#" target="_self"><img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-9.png"
-                                                              class="attachment-full size-full" alt="a" /></a>
-                                                        </div>
-                                                        <div class="eltdf-iwt-content" style="padding-top: 0px">
-                                                          <h4 class="eltdf-iwt-title" style="margin-top: 10px">
-                                                            <a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Europe Campus</span></a>
-                                                          </h4>
-                                                          <p class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing
-                                                            elit. Phasellus vehic sagittis euismod. </p>
-                                                        </div>
-                                                      </div>
-                                                      <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
-                                                    </div>
-                                                  </div>
+                                              
                                                 </div>
                                               </div>
                                             </div>
@@ -134,91 +61,7 @@
                                       </div>
                                     </div>
                                   </div>
-                                  <div class="eltdf-row-grid-section-wrapper eltdf-parallax-row-holder"
-                                    data-parallax-bg-image=""
-                                    data-parallax-bg-speed=1 style="background-color:#04d2c8">
-                                    <div class="eltdf-row-grid-section">
-                                      <div class="vc_row wpb_row vc_row-fluid vc_custom_1507294708344">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
-                                          <div class="vc_column-inner vc_custom_1507212856189">
-                                            <div class="wpb_wrapper">
-                                              <div class="eltdf-video-button-holder eltdf-vb-has-img">
-                                                  <div class="eltdf-video-button-image"><img width="900" height="600" src="<?php echo site_url().'static/page_front/images/vision.jpg';?>"
-                                                    class="attachment-full size-full" alt="a" srcset="<?php echo site_url().'static/page_front/images/vision.jpg';?> 900w, <?php echo site_url().'static/page_front/images/vision.jpg';?> 300w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/h6-img-4-768x512.jpg 768w"
-                                                    sizes="(max-width: 900px) 100vw, 900px" /></div>
-                                                <a class="eltdf-video-button-play-image eltdf-vb-has-hover-image"
-                                                  href="https://vimeo.com/38495846" target="_self" data-rel="prettyPhoto[video_button_pretty_photo_311]">
-                                                    <span class="eltdf-video-button-play-inner">
-                                                        <img width="81" height="81" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/play-button.png" class="attachment-full size-full" alt="a" />
-                                                        <img width="81" height="81" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/play-button-hover.png" class="attachment-full size-full" alt="a" />
-                                                    </span>
-                                                </a>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
-                                          <div class="vc_column-inner ">
-                                            <div class="wpb_wrapper">
-                                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-680 eltdf-one-column-alignment-center">
-                                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-4950"
-                                                  data-1280-1600="42px 27px 0px 30px " data-1024-1280="10px 27px 0px 30px"
-                                                  data-768-1024="35px 0px 0px 0px" data-680-768="35px 0px 0px 0px"
-                                                  data-680="35px 0px 0px 0px">
-                                                  <div class="eltdf-eh-item-inner">
-                                                    <div class="eltdf-eh-item-content eltdf-eh-custom-4950"
-                                                      style="padding: 41px 27px 0px 40px">
-                                                      <div class="eltdf-section-title-holder " style="text-align: left">
-                                                        <div class="eltdf-st-inner">
-                                                            <h3 class="eltdf-st-title" style="color: #ffffff"><?php echo replace_vocales_voculeshtml("Nuestra Visión y Misión");?></h3>
-                                                          <span
-                                                            class="eltdf-st-text" style="color: #ffffff;margin-top: 25px">Proin ac lobortis arcu, a vestibulum augue. Vivamus
-                                                            ipsum, facilisis vel mollis vitae, mollis nec
-                                                            ante. Quisque aliquam dictumfacilisis vel mollis
-                                                            vitae. </span>
-                                                        </div>
-                                                      </div>
-                                                      <div class="vc_empty_space" style="height: 37px"><span class="vc_empty_space_inner"></span></div>
-                                                      <div
-                                                        class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                          <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                              <div class="eltdf-counter-holder ">
-                                                                <div class="eltdf-counter-inner"><span class="eltdf-counter eltdf-zero-counter"
-                                                                    style="color: #ffffff">89</span>
-                                                                  <h4 class="eltdf-counter-title"
-                                                                    style="color: #ffffff">Scheduled Events</h4>
-                                                                </div>
-                                                              </div>
-                                                              <div class="vc_empty_space" style="height: 10px"><span class="vc_empty_space_inner"></span></div>
-                                                            </div>
-                                                          </div>
-                                                        </div>
-                                                        <div class="wpb_column vc_column_container vc_col-sm-6">
-                                                          <div class="vc_column-inner ">
-                                                            <div class="wpb_wrapper">
-                                                              <div class="eltdf-counter-holder ">
-                                                                <div class="eltdf-counter-inner"><span class="eltdf-counter eltdf-zero-counter"
-                                                                    style="color: #ffffff">56</span>
-                                                                  <h4 class="eltdf-counter-title"
-                                                                    style="color: #ffffff">Available Courses</h4>
-                                                                </div>
-                                                              </div>
-                                                            </div>
-                                                          </div>
-                                                        </div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
+                                <br/>
                                 <div class="eltdf-row-grid-section-wrapper ">
                                   <div class="eltdf-row-grid-section">
                                     <div class="vc_row wpb_row vc_row-fluid vc_custom_1507037802472 vc_row-has-fill">
@@ -227,11 +70,8 @@
                                           <div class="wpb_wrapper">
                                             <div class="eltdf-tabs eltdf-tabs-vertical">
                                               <ul class="eltdf-tabs-nav clearfix">
-                                                <li><a href="#tab-what-we-do">What We Do</a></li>
-                                                <li><a href="#tab-education-centre">Education Centre</a></li>
-                                                <li><a href="#tab-were-already-there">We’re Already There</a></li>
-                                                <li><a href="#tab-your-financial-bridge">Your Financial Bridge</a></li>
-                                                <li><a href="#tab-word-class-experts">Word-Class Experts</a></li>
+                                                  <li><a href="#tab-what-we-do"><?php echo replace_vocales_voculeshtml("Visión");?></a></li>
+                                                <li><a href="#tab-education-centre"><?php echo replace_vocales_voculeshtml("Misión");?></a></li>
                                               </ul>
                                               <div class="eltdf-tab-container" id="tab-what-we-do-336">
                                                 <div class="vc_row wpb_row vc_inner vc_row-fluid">
@@ -249,47 +89,15 @@
                                                                 <div class="eltdf-section-title-holder eltdf-st-has-watermark"
                                                                   style="text-align: left">
                                                                   <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span>
-                                                                    <span
-                                                                      class="eltdf-st-tagline">Our Difference</span>
-                                                                      <h2 class="eltdf-st-title">What We Do</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
+                                                                      <h2 class="eltdf-st-title"><?php echo replace_vocales_voculeshtml("Nuestra Visión");?></h2>
+                                                                      <span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("Ser la empresa referente en análisis de mercado y formación de tarders con mayor tendencia y preferencia de servicio a nivel internacional del rubro; competitivos, confiables y comprometidos con el desarrollo de nuestros clientes, asociados y equipo de trabajo  a través de una educación de primera.")?></span></div>
                                                                 </div>
                                                               </div>
                                                             </div>
                                                           </div>
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                                                        <div
-                                                          class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                                          <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check "
-                                                              style="color: #04d2c8;font-size: 18px"></span></div>
-                                                          <p
-                                                            class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                                                      </div>
-                                                      <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                      <div
-                                                        class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                                        <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check "
-                                                            style="color: #04d2c8;font-size: 18px"></span></div>
-                                                        <p
-                                                          class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                                                    </div>
-                                                    <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                    <div
-                                                      class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                                      <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check "
-                                                          style="color: #04d2c8;font-size: 18px"></span></div>
-                                                      <p
-                                                        class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                                                  </div>
-                                                  <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                  <div
-                                                    class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                                    <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                    <p
-                                                      class="eltdf-il-text"> Vestibulum vitae libero neque</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                                              </div>
+                                                        </div>
                                             </div>
                                           </div>
                                         </div>
@@ -310,217 +118,12 @@
                                                         <div class="eltdf-section-title-holder eltdf-st-has-watermark"
                                                           style="text-align: left">
                                                           <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span>
-                                                            <span
-                                                              class="eltdf-st-tagline">Our Difference</span>
-                                                              <h2 class="eltdf-st-title">Education Centre</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
+                                                              <h2 class="eltdf-st-title"><?php echo replace_vocales_voculeshtml("Nuestra Misión");?></h2><span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("Brindar el mejor servicio de análisis de mercado y formación de traders para el mundo hispanohablante de Forex. Trabajando en búsqueda del desarrollo integral de nuestros clientes centrándonos genuinamente en su necesidad, y así optimizar el aprendizaje de cada uno para la toma de decisiones asertivas dentro de los mercados.")?></span></div>
                                                         </div>
                                                       </div>
                                                     </div>
                                                   </div>
                                                 </div>
-                                                <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text"> Vestibulum vitae libero neque</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="eltdf-tab-container" id="tab-were-already-there-228">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                          <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner vc_custom_1507037206165">
-                                              <div class="wpb_wrapper">
-                                                <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                                  <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-4381"
-                                                    data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                                    data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px"
-                                                    data-680="0px 0px 0px 0px">
-                                                    <div class="eltdf-eh-item-inner">
-                                                      <div class="eltdf-eh-item-content eltdf-eh-custom-4381"
-                                                        style="padding: 0px 250px 0px 0px">
-                                                        <div class="eltdf-section-title-holder eltdf-st-has-watermark"
-                                                          style="text-align: left">
-                                                          <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span>
-                                                            <span
-                                                              class="eltdf-st-tagline">Our Difference</span>
-                                                              <h2 class="eltdf-st-title">We’re already there</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text"> Vestibulum vitae libero neque</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="eltdf-tab-container" id="tab-your-financial-bridge-768">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                          <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner vc_custom_1507037214045">
-                                              <div class="wpb_wrapper">
-                                                <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                                  <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-4926"
-                                                    data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                                    data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px"
-                                                    data-680="0px 0px 0px 0px">
-                                                    <div class="eltdf-eh-item-inner">
-                                                      <div class="eltdf-eh-item-content eltdf-eh-custom-4926"
-                                                        style="padding: 0px 250px 0px 0px">
-                                                        <div class="eltdf-section-title-holder eltdf-st-has-watermark"
-                                                          style="text-align: left">
-                                                          <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span>
-                                                            <span
-                                                              class="eltdf-st-tagline">Our Difference</span>
-                                                              <h2 class="eltdf-st-title">Your Financial Bridge</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text"> Vestibulum vitae libero neque</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <div class="eltdf-tab-container" id="tab-word-class-experts-78">
-                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                          <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner vc_custom_1507037221197">
-                                              <div class="wpb_wrapper">
-                                                <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                                  <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-6861"
-                                                    data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                                    data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px"
-                                                    data-680="0px 0px 0px 0px">
-                                                    <div class="eltdf-eh-item-inner">
-                                                      <div class="eltdf-eh-item-content eltdf-eh-custom-6861"
-                                                        style="padding: 0px 250px 0px 0px">
-                                                        <div class="eltdf-section-title-holder eltdf-st-has-watermark"
-                                                          style="text-align: left">
-                                                          <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span>
-                                                            <span
-                                                              class="eltdf-st-tagline">Our Difference</span>
-                                                              <h2 class="eltdf-st-title">Word-Class Experts</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                                                <div class="eltdf-icon-list-holder "
-                                                  style="margin-bottom: 0px">
-                                                  <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                                  <p
-                                                    class="eltdf-il-text"> Vestibulum vitae libero neque</p>
-                                                </div>
-                                                <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
                                               </div>
                                             </div>
                                           </div>
@@ -533,6 +136,147 @@
                             </div>
                           </div>
                         </div>
+                                 <div class="eltdf-container-inner clearfix">
+  <div class="eltdf-grid-row">
+    <div class="eltdf-page-content-holder eltdf-grid-col-9 eltdf-grid-col-push-3">
+      <div class="vc_row wpb_row vc_row-fluid vc_custom_1508333570447">
+        <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-11">
+          <div class="vc_column-inner ">
+            <div class="wpb_wrapper">
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4">
+                  <div class="vc_column-inner ">
+                    <div class="wpb_wrapper">
+                      <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+                        <div class="eltdf-iwt-icon">
+                          <a itemprop="url" href="#" target="_self">
+                            <i class="fa fa-star fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="eltdf-iwt-content" style="padding-top: 0px">
+                          <h4 class="eltdf-iwt-title" style="margin-top: 11px">
+                            <a itemprop="url" href="#" target="_self">
+                                <span class="eltdf-iwt-title-text"><?php echo replace_vocales_voculeshtml("Información");?></span>
+                            </a>
+                          </h4>
+                          <p class="eltdf-iwt-text" style="margin-top: 11px">Información certera y valores coherentes</p>
+                        </div>
+                      </div>
+                      <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4">
+                  <div class="vc_column-inner ">
+                    <div class="wpb_wrapper">
+                      <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+                        <div class="eltdf-iwt-icon">
+                          <a itemprop="url" href="#" target="_self">
+                            <i class="fa fa-star fa-3x" aria-hidden="true"></i>
+                          </a>
+                        </div>
+                        <div class="eltdf-iwt-content" style="padding-top: 0px">
+                          <h4 class="eltdf-iwt-title" style="margin-top: 11px">
+                            <a itemprop="url" href="#" target="_self">
+                              <span class="eltdf-iwt-title-text">Clientes</span>
+                            </a>
+                          </h4>
+                          <p class="eltdf-iwt-text" style="margin-top: 11px">El 100% de nuestros clientes estan satisfechos con nuestros servicios.</p>
+                        </div>
+                      </div>
+                      <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4">
+                  <div class="vc_column-inner ">
+                    <div class="wpb_wrapper">
+                      <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+                        <div class="eltdf-iwt-icon">
+                          <a itemprop="url" href="#" target="_self">
+                            <i class="fa fa-star fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="eltdf-iwt-content" style="padding-top: 0px">
+                          <h4 class="eltdf-iwt-title" style="margin-top: 11px">
+                            <a itemprop="url" href="#" target="_self">
+                              <span class="eltdf-iwt-title-text">Global</span>
+                            </a>
+                          </h4>
+                            <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("Academia global con presencia internacional desde nuestra fundación.");?></p>
+                        </div>
+                      </div>
+                      <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="vc_row wpb_row vc_inner vc_row-fluid">
+                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4">
+                  <div class="vc_column-inner ">
+                    <div class="wpb_wrapper">
+                      <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+                        <div class="eltdf-iwt-icon">
+                          <a itemprop="url" href="#" target="_self">
+                            <i class="fa fa-star fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="eltdf-iwt-content" style="padding-top: 0px">
+                          <h4 class="eltdf-iwt-title" style="margin-top: 11px">
+                            <a itemprop="url" href="#" target="_self">
+                              <span class="eltdf-iwt-title-text">Estudiantes</span>
+                            </a>
+                          </h4>
+                            <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("Más de 64 estudiantes en nuestro primer año en la academia.") ?></p>
+                        </div>
+                      </div>
+                      <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-md-4">
+                  <div class="vc_column-inner ">
+                    <div class="wpb_wrapper">
+                      <div class="eltdf-iwt clearfix  eltdf-iwt-icon-top eltdf-iwt-icon-medium">
+                        <div class="eltdf-iwt-icon">
+                          <a itemprop="url" href="#" target="_self">
+                            <i class="fa fa-star fa-3x" aria-hidden="true"></i>
+                        </div>
+                        <div class="eltdf-iwt-content" style="padding-top: 0px">
+                          <h4 class="eltdf-iwt-title" style="margin-top: 11px">
+                            <a itemprop="url" href="#" target="_self">
+                              <span class="eltdf-iwt-title-text">Soporte</span>
+                            </a>
+                          </h4>
+                            <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("Servicio al cliente y Soporte siempre al servicio 24/7.")?></p>
+                        </div>
+                      </div>
+                      <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="eltdf-sidebar-holder eltdf-grid-col-3 eltdf-grid-col-pull-9">
+      <aside class="eltdf-sidebar">
+        <div class="widget widget_text">
+          <div class="textwidget">
+            <h3>
+              <?php echo replace_vocales_voculeshtml("Por qué elegirnos")?>
+            </h3>
+              <p class="eltdf-iwt-text" style="margin-top: 11px">Somos la primera academia de Forex con el fin de ser un referente en todo el mundo hispanohablante, nuestras fortalezas son:</p>
+          </div>
+        </div>
+      </aside>
+    </div>
+  </div>
+</div>
+                                <br/>
+                                <br/>
+                                <br/>
+                                
                       </div>
                       </div>
                       </div>
