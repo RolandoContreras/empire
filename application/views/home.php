@@ -302,8 +302,7 @@
           </div>
           <p><?php echo replace_vocales_voculeshtml("iFOREX le permite invertir en Spain 35, que se basa en el índice futuro del IBEX 35, en forma de CFD.
 
-El Spain 35 se basa en el índice de acciones Iberia Index 35, el cual es el índice de acciones principal de la Bolsa de Madrid en España. Es un índice ponderado de capitalización del mercado que abarca los 35 valores de mayor liquidez de España, comercializados en el Índice general de intercambio de valores de Madrid, y que se revisan dos veces al año.
-")?></p>
+El Spain 35 se basa en el índice de acciones Iberia Index 35, el cual es el índice de acciones principal de la Bolsa de Madrid en España. Es un índice ponderado de capitalización del mercado que abarca los 35 valores de mayor liquidez de España, comercializados en el Índice general de intercambio de valores de Madrid, y que se revisan dos veces al año.")?></p>
         </div>
       </div>
       <div class="widget eltdf-separator-widget">
