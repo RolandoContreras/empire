@@ -199,7 +199,7 @@
                               <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
                                 <div class="eltdf-st-inner"> 
                                     <span class="eltdf-st-watermark">Aprender</span> 
-                                  <h2 class="eltdf-st-title">Acerca</h2> <span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("Creada con el compromiso de expandir de una forma profesional y acertada la cultura del trading en Forex, CFD's y ETF's a toda la comunidad hispanohablante. Siendo la Editorial y Academia de más rápido y sólido crecimiento por los resultados en sus clientes.")?></span></div>
+                                  <h2 class="eltdf-st-title">Acerca</h2> <span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("The Empire ha elevado la industria de divisas al acelerar la curva de aprendizaje de todos los estudiantes. Nuestra plataforma de enseñanza está diseñado para comerciantes con todos los niveles de experiencia. Todos los estudiantes reciben un soporte de asistencia integral que se completa con actualizaciones comerciales diarias que se completa con actualizaciones comerciales diarias. Aprenda con los educadores de forex de más rápido crecimiento en Latinoamérica")?></span></div>
                               </div>
                               <div class="vc_empty_space" style="height: 93px"> <span class="vc_empty_space_inner"></span> </div>
                               <div class="eltdf-elements-holder eltdf-three-columns eltdf-responsive-mode-768">
@@ -235,7 +235,7 @@
                                         </div>
                                         <div class="eltdf-iwt-content" style="padding-top: 0px">
                                           <h4 class="eltdf-iwt-title" style="margin-top: 10px">
-                                            <a itemprop="url" href="#" target="_self"> <span class="eltdf-iwt-title-text">Certificationes</span> </a>
+                                            <a itemprop="url" href="#" target="_self"> <span class="eltdf-iwt-title-text">Servicios</span> </a>
                                           </h4>
                                             <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("El 100% de nuestros clientes estan satisfechos con nuestros servicios.")?></p>
                                         </div>
@@ -255,9 +255,9 @@
                                           </a>
                                         </div>
                                         <div class="eltdf-iwt-content" style="padding-top: 0px">
-                                          <h4 class="eltdf-iwt-title" style="margin-top: 10px"><a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Academia Forex</span></a></h4>
+                                          <h4 class="eltdf-iwt-title" style="margin-top: 10px"><a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Soporte</span></a></h4>
                                           <p
-                                            class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. Phasellus vehic sagittis euismod. </p>
+                                            class="eltdf-iwt-text" style="margin-top: 11px">Servicio al cliente y Soporte siempre al servicio 24/7.</p>
                                         </div>
                                       </div>
                                       <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
@@ -271,254 +271,150 @@
                       </div>
                     </div>
                   </div>
-                    <!--OUR COURSE-->
-                    <!--WHAT WE DO-->
-      <div class="eltdf-row-grid-section-wrapper">
+                    <!--REPORT-->
+                    <div class="eltdf-row-grid-section-wrapper">
         <div class="eltdf-row-grid-section">
           <div class="vc_row wpb_row vc_row-fluid vc_custom_1507037802472 vc_row-has-fill">
             <div class="wpb_column vc_column_container vc_col-sm-12">
-              <div class="vc_column-inner vc_custom_1507037309686">
-                <div class="wpb_wrapper">
-                  <div class="eltdf-tabs eltdf-tabs-vertical">
-                    <ul class="eltdf-tabs-nav clearfix">
-                      <li><a href="#tab-what-we-do">What We Do</a>
-                        <li><a href="#tab-education-centre">Education Centre</a></li>
-                        <li><a href="#tab-were-already-there">We’re Already There</a></li>
-                        <li><a href="#tab-your-financial-bridge">Your Financial Bridge</a></li>
-                        <li><a href="#tab-word-class-experts">Word-Class Experts</a></li>
-                    </ul>
-                    <div class="eltdf-tab-container" id="tab-what-we-do-614">
-                      <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner vc_custom_1507037319037">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768">
-                                <div class="eltdf-eh-item" data-item-class="eltdf-eh-custom-2244" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                  data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
-                                  <div class="eltdf-eh-item-inner">
-                                    <div class="eltdf-eh-item-content eltdf-eh-custom-2244" style="padding: 0px 250px 0px 0px">
-                                      <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="text-align: left">
-                                        <div class="eltdf-st-inner"> <span class="eltdf-st-watermark">about</span> <span class="eltdf-st-tagline">Our Difference</span>
-                                          <h2 class="eltdf-st-title">What We Do</h2> <span class="eltdf-st-text"> Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span>                                          </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">
-                                Vestibulum vitae libero neque</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="eltdf-tab-container" id="tab-education-centre-617">
-                      <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner vc_custom_1507037198733">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-7953" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                  data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
-                                  <div class="eltdf-eh-item-inner">
-                                    <div class="eltdf-eh-item-content eltdf-eh-custom-7953" style="padding: 0px 250px 0px 0px">
-                                      <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="text-align: left">
-                                        <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span><span class="eltdf-st-tagline">Our Difference</span>
-                                          <h2 class="eltdf-st-title">Education Centre</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">
-                                Vestibulum vitae libero neque</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="eltdf-tab-container" id="tab-were-already-there-438">
-                      <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner vc_custom_1507037206165">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-9006" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                  data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
-                                  <div class="eltdf-eh-item-inner">
-                                    <div class="eltdf-eh-item-content eltdf-eh-custom-9006" style="padding: 0px 250px 0px 0px">
-                                      <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="text-align: left">
-                                        <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span><span class="eltdf-st-tagline">Our Difference</span>
-                                          <h2 class="eltdf-st-title">We’re already there</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">
-                                Vestibulum vitae libero neque</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="eltdf-tab-container" id="tab-your-financial-bridge-707">
-                      <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner vc_custom_1507037214045">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-6864" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                  data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
-                                  <div class="eltdf-eh-item-inner">
-                                    <div class="eltdf-eh-item-content eltdf-eh-custom-6864" style="padding: 0px 250px 0px 0px">
-                                      <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="text-align: left">
-                                        <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span><span class="eltdf-st-tagline">Our Difference</span>
-                                          <h2 class="eltdf-st-title">Your Financial Bridge</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">
-                                Vestibulum vitae libero neque</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="eltdf-tab-container" id="tab-word-class-experts-931">
-                      <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner vc_custom_1507037221197">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-elements-holder eltdf-one-column eltdf-responsive-mode-768 ">
-                                <div class="eltdf-eh-item " data-item-class="eltdf-eh-custom-9294" data-1280-1600="0px 220px 0px 0px" data-1024-1280="0px 150px 0px 0px"
-                                  data-768-1024="0px 0px 0px 0px" data-680-768="0px 0px 0px 0px" data-680="0px 0px 0px 0px">
-                                  <div class="eltdf-eh-item-inner">
-                                    <div class="eltdf-eh-item-content eltdf-eh-custom-9294" style="padding: 0px 250px 0px 0px">
-                                      <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="text-align: left">
-                                        <div class="eltdf-st-inner"><span class="eltdf-st-watermark">about</span><span class="eltdf-st-tagline">Our Difference</span>
-                                          <h2 class="eltdf-st-title">Word-Class Experts</h2><span class="eltdf-st-text">Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante.</span></div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 41px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipsum dolor sit amet consectetur adipiscing</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Nulla ante eros, venenatis vel malesuada sit amet</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">Lorem ipscras maximus turpis eget erat</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 18px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-icon-list-holder " style="margin-bottom: 0px">
-                                <div class="eltdf-il-icon-holder"><span class="eltdf-icon-font-elegant icon_check " style="color: #04d2c8;font-size: 18px"></span></div>
-                                <p class="eltdf-il-text">
-                                Vestibulum vitae libero neque</p>
-                              </div>
-                              <div class="vc_empty_space" style="height: 30px"><span class="vc_empty_space_inner"></span></div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+                    <div class="eltdf-grid-row">
+  <div class="eltdf-page-content-holder eltdf-grid-col-9 eltdf-grid-col-push-3">
+    <div class="vc_row wpb_row vc_row-fluid vc_custom_1508337482104 vc_row-has-fill eltdf-content-aligment-left">
+      <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-offset-1 vc_col-lg-11">
+        <div class="vc_column-inner ">
+          <div class="wpb_wrapper">
+            <div class="eltdf-video-button-holder eltdf-vb-has-img">
+              <div class="eltdf-video-button-image"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/become-instructor-video-img-1.png" class="attachment-full size-full"
+                  alt="a" srcset="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/become-instructor-video-img-1.png 974w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/become-instructor-video-img-1-300x160.png 300w, http://esmarts.elated-themes.com/wp-content/uploads/2017/10/become-instructor-video-img-1-768x410.png 768w"
+                  sizes="(max-width: 974px) 100vw, 974px" width="974" height="520"></div><a class="eltdf-video-button-play-image eltdf-vb-has-hover-image"
+                href="https://vimeo.com/32424882" target="_self" data-rel="prettyPhoto[video_button_pretty_photo_190]"><span class="eltdf-video-button-play-inner"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/play-button-hover.png" class="attachment-full size-full" alt="a" width="81" height="81"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/11/video-button-hover.png" class="attachment-full size-full" alt="a" width="81" height="81"></span></a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="eltdf-sidebar-holder eltdf-grid-col-3 eltdf-grid-col-pull-9">
+    <aside class="eltdf-sidebar">
+      <div class="widget widget_text">
+        <div class="textwidget">
+          <h3>Reporte</h3>
+          <div class="eltdf-cli-top-info">
+            <p>Lima 01  de Diciembre</p>
+          </div>
+          <p><?php echo replace_vocales_voculeshtml("iFOREX le permite invertir en Spain 35, que se basa en el índice futuro del IBEX 35, en forma de CFD.
+
+El Spain 35 se basa en el índice de acciones Iberia Index 35, el cual es el índice de acciones principal de la Bolsa de Madrid en España. Es un índice ponderado de capitalización del mercado que abarca los 35 valores de mayor liquidez de España, comercializados en el Índice general de intercambio de valores de Madrid, y que se revisan dos veces al año.
+")?></p>
+        </div>
+      </div>
+      <div class="widget eltdf-separator-widget">
+        <div class="eltdf-separator-holder clearfix eltdf-separator-center eltdf-separator-normal">
+          <div class="eltdf-separator" style="border-style: solid;margin-top: 18px"></div>
+        </div>
+      </div>
+    </aside>
+  </div>
+</div>
+                </div>
+</div>
+            </div>
+                    <!--OUR ANALIST-->
+                    
+                    <div class="eltdf-row-grid-section-wrapper">
+        <div class="eltdf-row-grid-section">
+          <div class="vc_row wpb_row vc_row-fluid vc_custom_1507037802472 vc_row-has-fill">
+            <div class="wpb_column vc_column_container vc_col-sm-12">
+                    <div class="vc_row wpb_row vc_row-fluid vc_custom_1509963604866">
+  <div class="wpb_column vc_column_container vc_col-sm-12">
+    <div class="vc_column-inner ">
+      <div class="wpb_wrapper">
+        <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
+          <div class="eltdf-st-inner"><span class="eltdf-st-watermark">Analistas</span>
+            <h2 class="eltdf-st-title">Nuestros Analistas</h2><span class="eltdf-st-text">Para tener servicios de calidad necesitas a operadores y analistas de calidad, aquí te presentamos nuestro staff</span></div>
+        </div>
+        <div class="vc_empty_space" style="height: 93px"><span class="vc_empty_space_inner"></span></div>
+        <div class="eltdf-instructor-list-holder eltdf-normal-space eltdf-tl-three-columns ">
+          <div class="eltdf-tl-inner eltdf-outer-space " data-number-of-items="3" data-enable-navigation="no" data-enable-pagination="no">
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jacke-masito/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-5.png" class="attachment-full size-full" alt="a" width="100"
+                      height="101"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jacke-masito/">Jacke Masito</a></h5><span class="eltdf-instructor-position">Teacher </span></div>
+                </div>
+              </div>
+            </div>
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/glen-anderson/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-8.png" class="attachment-full size-full" alt="" width="100"
+                      height="101"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/glen-anderson/">Glen Anders</a></h5><span class="eltdf-instructor-position">Special Assistant</span></div>
+                </div>
+              </div>
+            </div>
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jack-stevens/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-11.png" class="attachment-full size-full" alt="a" width="100"
+                      height="100"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jack-stevens/">Jack Stevens</a></h5><span class="eltdf-instructor-position">Education Assistant</span></div>
+                </div>
+              </div>
+            </div>
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/sophy-janer/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-1.png" class="attachment-full size-full" alt="" width="100"
+                      height="101"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/sophy-janer/">Sophy Janer</a></h5><span class="eltdf-instructor-position">Program Coordinator</span></div>
+                </div>
+              </div>
+            </div>
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/nicholas-butler/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-2.png" class="attachment-full size-full" alt="a" width="100"
+                      height="101"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/nicholas-butler/">Nicholas Butler</a></h5><span class="eltdf-instructor-position">Professor </span></div>
+                </div>
+              </div>
+            </div>
+            <div class="eltdf-instructor eltdf-item-space simple">
+              <div class="eltdf-instructor-inner">
+                <div class="eltdf-instructor-image">
+                  <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/laura-rees/"><img src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/instructor-3.png" class="attachment-full size-full" alt="a" width="100"
+                      height="101"></a>
+                </div>
+                <div class="eltdf-instructor-info">
+                  <div class="eltdf-instructor-title-holder">
+                    <h5 itemprop="name" class="eltdf-instructor-name entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/instructor/laura-rees/">Laura Rees</a></h5><span class="eltdf-instructor-position">Teaching Assistant</span></div>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
       <div class="eltdf-row-grid-section-wrapper eltdf-parallax-row-holder" data-parallax-bg-image=http://esmarts.elated-themes.com/wp-content/uploads/2017/09/testimonials-background-1.jpg
         data-parallax-bg-speed=1 style="background-color:#42495b">
         <div class="eltdf-row-grid-section">
@@ -586,7 +482,7 @@
   </div>
   </div>
   </div>
-  <!-- close div.content_inner -->
+  <!-- close div.content_inner 
   </div>
   <!-- close div.content -->
   <!--START FOOTER-->
