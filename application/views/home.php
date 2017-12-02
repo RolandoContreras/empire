@@ -199,8 +199,7 @@
                               <div class="eltdf-section-title-holder eltdf-st-has-watermark" style="padding: 0 19%;text-align: center">
                                 <div class="eltdf-st-inner"> 
                                     <span class="eltdf-st-watermark">Aprender</span> 
-                                    <span class="eltdf-st-tagline"><?php echo replace_vocales_voculeshtml("ÉXITO GARANTIZADO");?></span>
-                                  <h2 class="eltdf-st-title">Nuestros Servicios</h2> <span class="eltdf-st-text"> Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim. </span>                                  </div>
+                                  <h2 class="eltdf-st-title">Acerca</h2> <span class="eltdf-st-text"><?php echo replace_vocales_voculeshtml("Creada con el compromiso de expandir de una forma profesional y acertada la cultura del trading en Forex, CFD's y ETF's a toda la comunidad hispanohablante. Siendo la Editorial y Academia de más rápido y sólido crecimiento por los resultados en sus clientes.")?></span></div>
                               </div>
                               <div class="vc_empty_space" style="height: 93px"> <span class="vc_empty_space_inner"></span> </div>
                               <div class="eltdf-elements-holder eltdf-three-columns eltdf-responsive-mode-768">
@@ -210,14 +209,15 @@
                                     <div class="eltdf-eh-item-content eltdf-eh-custom-9013" style="padding: 8px 75px 0">
                                       <div class="eltdf-iwt clearfix eltdf-iwt-icon-top eltdf-iwt-icon-medium">
                                         <div class="eltdf-iwt-icon">
-                                          <a itemprop="url" href="#" target="_self"> <img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-7.png"
-                                              class="attachment-full size-full" alt="a" /> </a>
+                                          <a itemprop="url" href="#" target="_self"> 
+                                              <a itemprop="url" href="#" target="_self"><img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-9.png"  class="attachment-full size-full" alt="a" /></a>
+                                          </a>
                                         </div>
                                         <div class="eltdf-iwt-content" style="padding-top: 0px">
                                           <h4 class="eltdf-iwt-title" style="margin-top: 3px">
-                                            <a itemprop="url" href="#" target="_self"> <span class="eltdf-iwt-title-text">Señales por E - Mail</span> </a>
+                                            <a itemprop="url" href="#" target="_self"> <span class="eltdf-iwt-title-text">Academia Forex</span> </a>
                                           </h4>
-                                          <p class="eltdf-iwt-text" style="margin-top: 11px">Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. Phasellus vehic sagittis euismod. </p>
+                                            <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("Academia global con presencia internacional desde nuestra fundación.");?></p>
                                         </div>
                                       </div>
                                       <div class="vc_empty_space" style="height: 50px"> <span class="vc_empty_space_inner"></span> </div>
@@ -237,7 +237,7 @@
                                           <h4 class="eltdf-iwt-title" style="margin-top: 10px">
                                             <a itemprop="url" href="#" target="_self"> <span class="eltdf-iwt-title-text">Certificationes</span> </a>
                                           </h4>
-                                          <p class="eltdf-iwt-text" style="margin-top: 11px">Phasellus vehic sagittis euismod. Lorem ipsum dolor sit ametcon, sectetur adipiscing elit. </p>
+                                            <p class="eltdf-iwt-text" style="margin-top: 11px"><?php echo replace_vocales_voculeshtml("El 100% de nuestros clientes estan satisfechos con nuestros servicios.")?></p>
                                         </div>
                                       </div>
                                       <div class="vc_empty_space" style="height: 50px"><span class="vc_empty_space_inner"></span></div>
@@ -250,8 +250,9 @@
                                     <div class="eltdf-eh-item-content eltdf-eh-custom-6171" style="padding: 0px 75px 0px">
                                       <div class="eltdf-iwt clearfix eltdf-iwt-icon-top eltdf-iwt-icon-medium">
                                         <div class="eltdf-iwt-icon">
-                                          <a itemprop="url" href="#" target="_self"><img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-9.png"
-                                              class="attachment-full size-full" alt="a" /></a>
+                                            <a itemprop="url" href="#" target="_self">
+                                                <img width="130" height="101" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-custom-icon-7.png" class="attachment-full size-full" alt="a" /> 
+                                          </a>
                                         </div>
                                         <div class="eltdf-iwt-content" style="padding-top: 0px">
                                           <h4 class="eltdf-iwt-title" style="margin-top: 10px"><a itemprop="url" href="#" target="_self"><span class="eltdf-iwt-title-text">Academia Forex</span></a></h4>
@@ -271,157 +272,6 @@
                     </div>
                   </div>
                     <!--OUR COURSE-->
-                  <div class="eltdf-row-grid-section-wrapper eltdf-parallax-row-holder" data-parallax-bg-image=http://esmarts.elated-themes.com/wp-content/uploads/2017/09/h1-background-1.jpg
-                    data-parallax-bg-speed=1 style="background-color:#4582ff">
-                    <div class="eltdf-row-grid-section">
-                      <div class="vc_row wpb_row vc_row-fluid vc_custom_1509548721259">
-                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                          <div class="vc_column-inner ">
-                            <div class="wpb_wrapper">
-                              <div class="eltdf-section-title-holder " style="padding: 0 19%;text-align: center">
-                                <div class="eltdf-st-inner">
-                                  <h2 class="eltdf-st-title" style="color: #ffffff">Nuestros Cursos</h2>
-                                  <span class="eltdf-st-text" style="color: #ffffff"> Proin ac lobortis arcu, a vestibulum augue. Vivamus ipsum neque, facilisis vel mollis vitae, mollis nec ante. Quisque aliquam dictum condim. </span></div>
-                              </div>
-                              <div class="vc_empty_space" style="height: 93px"><span class="vc_empty_space_inner"></span></div>
-                              <div class="eltdf-course-slider-holder ">
-                                <div class="eltdf-course-list-holder eltdf-cl-gallery eltdf-small-space eltdf-cl-four-columns eltdf-cl-standard eltdf-cl-pag-no-pagination eltdf-nav-light-skin eltdf-nav-full-width eltdf-pag-light-skin eltdf-pag-below-slider"
-                                  data-number-of-columns="4" data-space-between-items="small" data-number-of-items="8" data-enable-image="yes" data-image-proportions="landscape"
-                                  data-order-by="date" data-order="ASC" data-item-layout="standard" data-enable-title="yes" data-title-tag="h4" data-enable-instructor="yes"
-                                  data-enable-price="yes" data-enable-excerpt="yes" data-excerpt-length="82" data-enable-students="yes" data-enable-ratings="yes"
-                                  data-pagination-type="no-pagination" data-filter="no" data-enable-article-animation="no" data-course-slider-on="yes" data-enable-loop="yes"
-                                  data-enable-autoplay="yes" data-slider-speed="5000" data-slider-speed-animation="600" data-enable-navigation="yes" data-navigation-skin="light"
-                                  data-navigation-position="full-width" data-enable-pagination="yes" data-pagination-skin="light" data-pagination-position="below-slider"
-                                  data-widget="no" data-max-num-pages="3" data-next-page="2">
-                                  <div class="eltdf-cl-inner eltdf-owl-slider eltdf-pl-is-slider eltdf-grid clearfix">
-                                    <article class="eltdf-cl-item eltdf-item-space post-845 course type-course status-publish has-post-thumbnail hentry course-category-languages"
-                                      data-name=academic-english data-date=1507593600>
-                                      <div class="eltdf-cl-item-inner">
-                                        <div class="eltdf-cli-image">
-                                          <a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/"> <img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-1-1000x550.jpg"
-                                              class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a"
-                                            /></a>
-                                        </div>
-                                        <div class="eltdf-cli-text-holder">
-                                          <div class="eltdf-cli-text-inner">
-                                            <div class="eltdf-cli-text-inner-2">
-                                              <h4 itemprop="name" class="eltdf-cli-title entry-title"> <a itemprop="url" href="http://esmarts.elated-themes.com/course/academic-english/" target="_self"> Academic Forex</a>                                                </h4>
-                                              <div class="eltdf-cli-top-info">
-                                                <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/jacke-masito/" target="_self"> <span class="eltdf-instructor-name"> Jacke Masito </span> </a>
-                                              </div>
-                                              <p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
-                                              <div class="eltdf-cli-bottom-info">
-                                                <div class="eltdf-students-number-holder"> 
-                                                    <span class="eltdf-student-icon"></span> <span class="eltdf-student-label"> 1Students</span> 
-                                                </div>
-                                                <div
-                                                  class="eltdf-course-ratings"> <span class="eltdf-course-rating-icon"></span> <span class="eltdf-course-rating-label"> 5Ratings</span>                                                  </div>
-                                              <div class="eltdf-ci-price-holder"> <span class="eltdf-ci-price-free"> Free </span> </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                      <a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/academic-english/"
-                                        target="_self"></a>
-                                  </div>
-                                  </article>
-                                  <article class="eltdf-cl-item eltdf-item-space post-1031 course type-course status-publish has-post-thumbnail hentry course-category-it-software"
-                                    data-name=pc-systems data-date=1507680000>
-                                    <div class="eltdf-cl-item-inner">
-                                      <div class="eltdf-cli-image">
-                                        <a itemprop="url" href="http://esmarts.elated-themes.com/course/pc-systems/"><img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-3-1000x550.jpg"
-                                            class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" /></a>
-                                      </div>
-                                      <div class="eltdf-cli-text-holder">
-                                        <div class="eltdf-cli-text-inner">
-                                          <div class="eltdf-cli-text-inner-2">
-                                            <h4 itemprop="name" class="eltdf-cli-title entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/course/pc-systems/" target="_self">Forex Intermedio</a></h4>
-                                            <div
-                                              class="eltdf-cli-top-info">
-                                              <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/judith-stevens/" target="_self"> <span class="eltdf-instructor-name"> Judith Stevens </span></a>
-                                          </div>
-                                          <p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
-                                          <div class="eltdf-cli-bottom-info">
-                                            <div class="eltdf-students-number-holder"><span class="eltdf-student-icon"></span><span class="eltdf-student-label">1Students</span></div>
-                                            <div class="eltdf-course-ratings"><span class="eltdf-course-rating-icon"></span><span class="eltdf-course-rating-label">5Ratings</span></div>
-                                            <div class="eltdf-ci-price-holder">
-                                                <span class="eltdf-ci-price-value"> 80&#36;</span>
-                                            </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                </div>
-                                <a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/pc-systems/"
-                                  target="_self"></a>
-                              </div>
-                              </article>
-                              <article class="eltdf-cl-item eltdf-item-space post-2125 course type-course status-publish has-post-thumbnail hentry course-category-it-software"
-                                data-name=web-technology data-date=1508457600>
-                                <div class="eltdf-cl-item-inner">
-                                  <div class="eltdf-cli-image">
-                                    <a itemprop="url" href="http://esmarts.elated-themes.com/course/web-technology/">
-                                        <img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-4-1000x550.jpg" class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" /></a>
-                                  </div>
-                                  <div class="eltdf-cli-text-holder">
-                                    <div class="eltdf-cli-text-inner">
-                                      <div class="eltdf-cli-text-inner-2">
-                                        <h4 itemprop="name" class="eltdf-cli-title entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/course/web-technology/" target="_self">Avanzando Forex</a></h4>
-                                        <div
-                                          class="eltdf-cli-top-info">
-                                          <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/judith-stevens/" target="_self"> <span class="eltdf-instructor-name"> Judith Stevens </span></a>
-                                      </div>
-                                      <p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
-                                      <div class="eltdf-cli-bottom-info">
-                                        <div class="eltdf-students-number-holder"><span class="eltdf-student-icon"></span><span class="eltdf-student-label">1Students</span></div>
-                                        <div class="eltdf-course-ratings"><span class="eltdf-course-rating-icon"></span><span class="eltdf-course-rating-label">5Ratings</span></div>
-                                        <div
-                                          class="eltdf-ci-price-holder"><span class="eltdf-ci-price-free"> Free </span></div>
-                                    </div>
-                                  </div>
-                                </div>
-                            </div>
-                            <a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/web-technology/"
-                              target="_self"></a>
-                          </div>
-                          </article>
-                          <article class="eltdf-cl-item eltdf-item-space post-2126 course type-course status-publish has-post-thumbnail hentry course-category-it-software"
-                            data-name=it-foundations data-date=1508457600>
-                            <div class="eltdf-cl-item-inner">
-                              <div class="eltdf-cli-image">
-                                <a itemprop="url" href="http://esmarts.elated-themes.com/course/it-foundations/"><img width="1000" height="550" src="http://esmarts.elated-themes.com/wp-content/uploads/2017/10/course-img-5-1000x550.jpg"
-                                    class="attachment-esmarts_elated_image_landscape size-esmarts_elated_image_landscape wp-post-image" alt="a" /></a>
-                              </div>
-                              <div class="eltdf-cli-text-holder">
-                                <div class="eltdf-cli-text-inner">
-                                  <div class="eltdf-cli-text-inner-2">
-                                    <h4 itemprop="name" class="eltdf-cli-title entry-title"><a itemprop="url" href="http://esmarts.elated-themes.com/course/it-foundations/" target="_self">Fundamentos</a></h4>
-                                    <div
-                                      class="eltdf-cli-top-info">
-                                      <a itemprop="url" href="http://esmarts.elated-themes.com/instructor/ana-murphy/" target="_self"> <span class="eltdf-instructor-name"> Ana Murphy </span></a>
-                                  </div>
-                                  <p itemprop="description" class="eltdf-cli-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec posuere turpis odio</p>
-                                  <div class="eltdf-cli-bottom-info">
-                                    <div class="eltdf-students-number-holder"><span class="eltdf-student-icon"></span><span class="eltdf-student-label">1Students</span></div>
-                                    <div class="eltdf-course-ratings"><span class="eltdf-course-rating-icon"></span><span class="eltdf-course-rating-label">5Ratings</span></div>
-                                    <div class="eltdf-ci-price-holder">
-                                        <span class="eltdf-ci-price-value"> 45&#36;</span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <a itemprop="url" class="eltdf-cli-link eltdf-block-drag-link" href="http://esmarts.elated-themes.com/course/it-foundations/" target="_self"></a>
-                        </div>
-                        </article>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
                     <!--WHAT WE DO-->
       <div class="eltdf-row-grid-section-wrapper">
         <div class="eltdf-row-grid-section">
